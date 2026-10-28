@@ -1,5 +1,11 @@
 # CNS Simulation — Aseel & MED45
 
+**Live website:** https://a9eelalsubhi.github.io/CNS-Simulation/
+
+GitHub Pages publishes the interactive study atlas automatically after a push to `main`. The static Pages version includes all three lectures, models, quizzes and slide references. Owner analytics remains available only on the original Worker-hosted site.
+
+To prepare the Pages artifact locally: `node scripts/build-pages.mjs` (output: `.pages-dist/`).
+
 Source snapshot of the CNS Anatomy Atlas: cerebral cortex, brainstem, and cranial nerves, including the 3D models, lecture datasets, reference slide images, and owner-only analytics implementation.
 
 ## Run locally

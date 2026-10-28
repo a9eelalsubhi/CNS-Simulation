@@ -46,3 +46,4 @@ yarn-error.log*
 
 __pycache__/
 *.tar.gz
+/.pages-dist/
