@@ -1,0 +1,4970 @@
+{
+  "id": "2",
+  "title": "Brain stem",
+  "source": "L2 - Brain Stem.pdf",
+  "source_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "source_sha256": "95c3cafc97b0fda90ab508e63bd245c24e100234665c4187aac71ff003127f4a",
+  "source_line_count": 133,
+  "source_path": "/data/brainstem-source.json",
+  "slide_template": "/slides/brainstem/slide-{page}.jpg",
+  "chapters": [
+    {
+      "id": "page-1",
+      "name": "Slide 1 · Brainstem · parts, nerves & supply"
+    },
+    {
+      "id": "page-2",
+      "name": "Slide 2 · Midbrain · external organization"
+    },
+    {
+      "id": "page-3",
+      "name": "Slide 3 · Inferior collicular level"
+    },
+    {
+      "id": "page-4",
+      "name": "Slide 4 · Lemnisci & superior collicular level"
+    },
+    {
+      "id": "page-5",
+      "name": "Slide 5 · Pons · anterior surface"
+    },
+    {
+      "id": "page-6",
+      "name": "Slide 6 · Pons · posterior surface & internal structures"
+    },
+    {
+      "id": "page-7",
+      "name": "Slide 7 · Medulla · anterior surface"
+    },
+    {
+      "id": "page-8",
+      "name": "Slide 8 · Medulla · posterior surface"
+    },
+    {
+      "id": "page-9",
+      "name": "Slide 9 · Medulla · internal pathways"
+    },
+    {
+      "id": "explore",
+      "name": "Complete brainstem explorer"
+    }
+  ],
+  "steps": [
+    {
+      "id": "bs-1-0-midbrain",
+      "chapter": "page-1",
+      "structure": "midbrain",
+      "title": "Midbrain · three continuous parts",
+      "name": "Midbrain · three continuous parts",
+      "page": 1,
+      "printed_page": 12,
+      "pins": [
+        "midbrain"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "Brain stem",
+      "bullets": [
+        "- the brain stem consists of midbrain, pons and medulla oblongata"
+      ],
+      "source_lines": [
+        0,
+        1
+      ],
+      "source_excerpt": "Brain stem\n- the brain stem consists of midbrain, pons and medulla oblongata",
+      "plate": "anterior",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "related": [
+        {
+          "structure": "pons",
+          "name": "Pons",
+          "text": "pons",
+          "bullets": [],
+          "targets": [
+            "Pons.l",
+            "Pons.r"
+          ]
+        },
+        {
+          "structure": "medulla",
+          "name": "Medulla oblongata",
+          "text": "medulla oblongata",
+          "bullets": [],
+          "targets": [
+            "Medulla oblongata.l",
+            "Medulla oblongata.r"
+          ]
+        }
+      ],
+      "slide_item": 1,
+      "slide_items": 5
+    },
+    {
+      "id": "bs-1-2-limits",
+      "chapter": "page-1",
+      "structure": "limits",
+      "title": "Posterior commissure → pyramidal decussation",
+      "name": "Posterior commissure → pyramidal decussation",
+      "page": 1,
+      "printed_page": 12,
+      "pins": [
+        "limits"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r",
+        "Posterior commissure"
+      ],
+      "text": "- it extends form posterior commissure to pyramidal decussation",
+      "bullets": [],
+      "source_lines": [
+        2
+      ],
+      "source_excerpt": "- it extends form posterior commissure to pyramidal decussation",
+      "plate": "anterior",
+      "diagram": false,
+      "study_focus": "anterior",
+      "internal": false,
+      "slide_item": 2,
+      "slide_items": 5
+    },
+    {
+      "id": "bs-1-3-cranial-nerves",
+      "chapter": "page-1",
+      "structure": "cranial-nerves",
+      "title": "Cranial nerves III–XII",
+      "name": "Cranial nerves III–XII",
+      "page": 1,
+      "printed_page": 12,
+      "pins": [
+        "cranial-nerves"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Abducens nerve (VI).l",
+        "Abducens nerve (VI).r",
+        "Accessory nerve (XI).l",
+        "Accessory nerve (XI).r",
+        "Facial nerve (VII).l",
+        "Facial nerve (VII).r",
+        "Glossopharyngeal nerve (IX).l",
+        "Glossopharyngeal nerve (IX).r",
+        "Hypoglossal nerve (XII).l",
+        "Hypoglossal nerve (XII).r",
+        "Oculomotor nerve (III).l",
+        "Oculomotor nerve (III).r",
+        "Trigeminal nerve (V).l",
+        "Trigeminal nerve (V).r",
+        "Trochlear nerve (IV).l",
+        "Trochlear nerve (IV).r",
+        "Vagus nerve (X).l",
+        "Vagus nerve (X).r",
+        "Vestibulocochlear nerve (VIII).l",
+        "Vestibulocochlear nerve (VIII).r"
+      ],
+      "text": "- it gives rise to the cranial nerves (3-12)",
+      "bullets": [],
+      "source_lines": [
+        3
+      ],
+      "source_excerpt": "- it gives rise to the cranial nerves (3-12)",
+      "plate": "anterior",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "slide_item": 3,
+      "slide_items": 5
+    },
+    {
+      "id": "bs-1-4-reticular",
+      "chapter": "page-1",
+      "structure": "reticular",
+      "title": "Reticular formation",
+      "name": "Reticular formation",
+      "page": 1,
+      "printed_page": 12,
+      "pins": [
+        "reticular"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r",
+        "Midbrain.l",
+        "Midbrain.r",
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- it contains the reticular formation",
+      "bullets": [],
+      "source_lines": [
+        4
+      ],
+      "source_excerpt": "- it contains the reticular formation",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": true,
+      "slide_item": 4,
+      "slide_items": 5,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-1-5-blood-supply",
+      "chapter": "page-1",
+      "structure": "blood-supply",
+      "title": "Vertebrobasilar system",
+      "name": "Vertebrobasilar system",
+      "page": 1,
+      "printed_page": 12,
+      "pins": [
+        "blood-supply"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Basilar artery",
+        "Vertebral artery.l",
+        "Vertebral artery.r"
+      ],
+      "text": "- it receives blood supply from:",
+      "bullets": [
+        "vertebrobasilar system."
+      ],
+      "source_lines": [
+        5,
+        6
+      ],
+      "source_excerpt": "- it receives blood supply from:\nvertebrobasilar system.",
+      "plate": "location",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "slide_item": 5,
+      "slide_items": 5
+    },
+    {
+      "id": "bs-2-0-midbrain",
+      "chapter": "page-2",
+      "structure": "midbrain",
+      "title": "Midbrain · cranial nerves III & IV",
+      "name": "Midbrain · cranial nerves III & IV",
+      "page": 2,
+      "printed_page": 13,
+      "pins": [
+        "midbrain"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "Mid brain",
+      "bullets": [
+        "- it gives rise to the oculomotor nerve (3) and the trochlear nerve (4)"
+      ],
+      "source_lines": [
+        0,
+        1
+      ],
+      "source_excerpt": "Mid brain\n- it gives rise to the oculomotor nerve (3) and the trochlear nerve (4)",
+      "plate": "anterior",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "related": [
+        {
+          "structure": "cn3",
+          "name": "Oculomotor · III",
+          "text": "oculomotor nerve (3)",
+          "bullets": [],
+          "targets": [
+            "Oculomotor nerve (III).l",
+            "Oculomotor nerve (III).r"
+          ]
+        },
+        {
+          "structure": "cn4",
+          "name": "Trochlear · IV",
+          "text": "trochlear nerve (4)",
+          "bullets": [],
+          "targets": [
+            "Trochlear nerve (IV).l",
+            "Trochlear nerve (IV).r"
+          ]
+        }
+      ],
+      "slide_item": 1,
+      "slide_items": 8
+    },
+    {
+      "id": "bs-2-2-aqueduct",
+      "chapter": "page-2",
+      "structure": "aqueduct",
+      "title": "Cerebral aqueduct",
+      "name": "Cerebral aqueduct",
+      "page": 2,
+      "printed_page": 13,
+      "pins": [
+        "aqueduct"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Aqueduct of midbrain"
+      ],
+      "text": "- The midbrain has a narrow lumen called cerebral aqueduct (aqueduct of Sylvius).",
+      "bullets": [
+        "which divides the midbrain into 2 divisions:"
+      ],
+      "source_lines": [
+        2,
+        3
+      ],
+      "source_excerpt": "- The midbrain has a narrow lumen called cerebral aqueduct (aqueduct of Sylvius).\nwhich divides the midbrain into 2 divisions:",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": true,
+      "slide_item": 2,
+      "slide_items": 8,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-2-4-peduncle",
+      "chapter": "page-2",
+      "structure": "peduncle",
+      "title": "Cerebral peduncle",
+      "name": "Cerebral peduncle",
+      "page": 2,
+      "printed_page": 13,
+      "pins": [
+        "peduncle"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Base of peduncle.l",
+        "Base of peduncle.r",
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "(1) Cerebral peduncle:",
+      "bullets": [
+        "- consists of crus cerebri,",
+        "substantia nigra and tegmentum"
+      ],
+      "source_lines": [
+        4,
+        5,
+        6
+      ],
+      "source_excerpt": "(1) Cerebral peduncle:\n- consists of crus cerebri,\nsubstantia nigra and tegmentum",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 3,
+      "slide_items": 8,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-2-7-tectum",
+      "chapter": "page-2",
+      "structure": "tectum",
+      "title": "Tectum · corpora quadrigemina",
+      "name": "Tectum · corpora quadrigemina",
+      "page": 2,
+      "printed_page": 13,
+      "pins": [
+        "tectum"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Inferior colliculus.l",
+        "Inferior colliculus.r",
+        "Superior colliculus.l",
+        "Superior colliculus.r"
+      ],
+      "text": "(2) Tectum :",
+      "bullets": [
+        "- consists of 4 colliculi (corpora quadrigemina)",
+        "(arranged as 2 superior and 2 inferior)"
+      ],
+      "source_lines": [
+        7,
+        8,
+        9
+      ],
+      "source_excerpt": "(2) Tectum :\n- consists of 4 colliculi (corpora quadrigemina)\n(arranged as 2 superior and 2 inferior)",
+      "plate": "posterior",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "slide_item": 4,
+      "slide_items": 8
+    },
+    {
+      "id": "bs-2-10-superior-colliculi",
+      "chapter": "page-2",
+      "structure": "superior-colliculi",
+      "title": "Colliculi · visual & auditory reflexes",
+      "name": "Colliculi · visual & auditory reflexes",
+      "page": 2,
+      "printed_page": 13,
+      "pins": [
+        "superior-colliculi"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Superior colliculus.l",
+        "Superior colliculus.r"
+      ],
+      "text": "- functions of midbrain:",
+      "bullets": [
+        "(1) superior and inferior colliculi: Mediates visual & auditory reflexes"
+      ],
+      "source_lines": [
+        10,
+        11
+      ],
+      "source_excerpt": "- functions of midbrain:\n(1) superior and inferior colliculi: Mediates visual & auditory reflexes",
+      "plate": "superior",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "related": [
+        {
+          "structure": "inferior-colliculi",
+          "name": "Inferior colliculi",
+          "text": "auditory reflexes",
+          "bullets": [],
+          "targets": [
+            "Inferior colliculus.l",
+            "Inferior colliculus.r"
+          ]
+        }
+      ],
+      "slide_item": 5,
+      "slide_items": 8
+    },
+    {
+      "id": "bs-2-12-cn3",
+      "chapter": "page-2",
+      "structure": "cn3",
+      "title": "Oculomotor nerve · III",
+      "name": "Oculomotor nerve · III",
+      "page": 2,
+      "printed_page": 13,
+      "pins": [
+        "cn3"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Oculomotor nerve (III).l",
+        "Oculomotor nerve (III).r"
+      ],
+      "text": "(2) it gives rise to the oculomotor nerve (3) and the trochlear nerve (4)",
+      "bullets": [
+        "which supply muscles of the eye"
+      ],
+      "source_lines": [
+        12,
+        13
+      ],
+      "source_excerpt": "(2) it gives rise to the oculomotor nerve (3) and the trochlear nerve (4)\nwhich supply muscles of the eye",
+      "plate": "anterior",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "slide_item": 6,
+      "slide_items": 8
+    },
+    {
+      "id": "bs-2-14-substantia-nigra",
+      "chapter": "page-2",
+      "structure": "substantia-nigra",
+      "title": "Substantia nigra",
+      "name": "Substantia nigra",
+      "page": 2,
+      "printed_page": 13,
+      "pins": [
+        "substantia-nigra"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "(3) Substantia nigra, the largest nucleus of midbrain",
+      "bullets": [
+        "(if affected Parkinsonism)."
+      ],
+      "source_lines": [
+        14,
+        15
+      ],
+      "source_excerpt": "(3) Substantia nigra, the largest nucleus of midbrain\n(if affected Parkinsonism).",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 7,
+      "slide_items": 8,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-2-16-reticular",
+      "chapter": "page-2",
+      "structure": "reticular",
+      "title": "Reticular formation",
+      "name": "Reticular formation",
+      "page": 2,
+      "printed_page": 13,
+      "pins": [
+        "reticular"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r",
+        "Midbrain.l",
+        "Midbrain.r",
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "(4) it contains the reticular formation",
+      "bullets": [
+        "(if affected coma)."
+      ],
+      "source_lines": [
+        16,
+        17
+      ],
+      "source_excerpt": "(4) it contains the reticular formation\n(if affected coma).",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": true,
+      "slide_item": 8,
+      "slide_items": 8,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-3-0-inferior-colliculi",
+      "chapter": "page-3",
+      "structure": "inferior-colliculi",
+      "title": "Inferior collicular level",
+      "name": "Inferior collicular level",
+      "page": 3,
+      "printed_page": 14,
+      "pins": [
+        "inferior-colliculi"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Inferior colliculus.l",
+        "Inferior colliculus.r"
+      ],
+      "text": "- Inferior collicular level of midbrain:",
+      "bullets": [],
+      "source_lines": [
+        0
+      ],
+      "source_excerpt": "- Inferior collicular level of midbrain:",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 1,
+      "slide_items": 13,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-3-1-corticospinal",
+      "chapter": "page-3",
+      "structure": "corticospinal",
+      "title": "Corticospinal tract",
+      "name": "Corticospinal tract",
+      "page": 3,
+      "printed_page": 14,
+      "pins": [
+        "corticospinal"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Base of peduncle.l",
+        "Base of peduncle.r"
+      ],
+      "text": "- the cerebral crus consists of:",
+      "bullets": [
+        "(1) Corticospinal tract"
+      ],
+      "source_lines": [
+        1,
+        2
+      ],
+      "source_excerpt": "- the cerebral crus consists of:\n(1) Corticospinal tract",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 2,
+      "slide_items": 13,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-3-3-corticobulbar",
+      "chapter": "page-3",
+      "structure": "corticobulbar",
+      "title": "Corticobulbar tract",
+      "name": "Corticobulbar tract",
+      "page": 3,
+      "printed_page": 14,
+      "pins": [
+        "corticobulbar"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Base of peduncle.l",
+        "Base of peduncle.r"
+      ],
+      "text": "(2) Corticobulbar tract",
+      "bullets": [],
+      "source_lines": [
+        3
+      ],
+      "source_excerpt": "(2) Corticobulbar tract",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 3,
+      "slide_items": 13,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-3-4-frontopontine",
+      "chapter": "page-3",
+      "structure": "frontopontine",
+      "title": "Frontopontine fibers",
+      "name": "Frontopontine fibers",
+      "page": 3,
+      "printed_page": 14,
+      "pins": [
+        "frontopontine"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Base of peduncle.l",
+        "Base of peduncle.r"
+      ],
+      "text": "(3) Front pontine fibers: located most medially.",
+      "bullets": [],
+      "source_lines": [
+        4
+      ],
+      "source_excerpt": "(3) Front pontine fibers: located most medially.",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 4,
+      "slide_items": 13,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-3-5-temporopontine",
+      "chapter": "page-3",
+      "structure": "temporopontine",
+      "title": "Temporopontine fibers",
+      "name": "Temporopontine fibers",
+      "page": 3,
+      "printed_page": 14,
+      "pins": [
+        "temporopontine"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Base of peduncle.l",
+        "Base of peduncle.r"
+      ],
+      "text": "(4) Tempro-pontine fibers: located postero-laterally",
+      "bullets": [],
+      "source_lines": [
+        5
+      ],
+      "source_excerpt": "(4) Tempro-pontine fibers: located postero-laterally",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 5,
+      "slide_items": 13,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-3-6-mesencephalic-v",
+      "chapter": "page-3",
+      "structure": "mesencephalic-v",
+      "title": "Mesencephalic nucleus of CN V",
+      "name": "Mesencephalic nucleus of CN V",
+      "page": 3,
+      "printed_page": 14,
+      "pins": [
+        "mesencephalic-v"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "- Near the cerebral aqueduct:",
+      "bullets": [
+        "(1) Mesencephalic nucleus of the trigeminal nerve."
+      ],
+      "source_lines": [
+        6,
+        7
+      ],
+      "source_excerpt": "- Near the cerebral aqueduct:\n(1) Mesencephalic nucleus of the trigeminal nerve.",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 6,
+      "slide_items": 13,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-3-8-mlf",
+      "chapter": "page-3",
+      "structure": "mlf",
+      "title": "Medial longitudinal fasciculus",
+      "name": "Medial longitudinal fasciculus",
+      "page": 3,
+      "printed_page": 14,
+      "pins": [
+        "mlf"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "(2) Medial longitudinal fasciculus",
+      "bullets": [],
+      "source_lines": [
+        8
+      ],
+      "source_excerpt": "(2) Medial longitudinal fasciculus",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 7,
+      "slide_items": 13,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-3-9-trochlear-nucleus",
+      "chapter": "page-3",
+      "structure": "trochlear-nucleus",
+      "title": "Trochlear nucleus",
+      "name": "Trochlear nucleus",
+      "page": 3,
+      "printed_page": 14,
+      "pins": [
+        "trochlear-nucleus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Nucleus of trochlear nerve.l",
+        "Nucleus of trochlear nerve.r"
+      ],
+      "text": "(3) Trochlear nucleus",
+      "bullets": [],
+      "source_lines": [
+        9
+      ],
+      "source_excerpt": "(3) Trochlear nucleus",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": true,
+      "slide_item": 8,
+      "slide_items": 13,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-3-10-scp-crossing",
+      "chapter": "page-3",
+      "structure": "scp-crossing",
+      "title": "Decussation of superior cerebellar peduncles",
+      "name": "Decussation of superior cerebellar peduncles",
+      "page": 3,
+      "printed_page": 14,
+      "pins": [
+        "scp-crossing"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "- Decussation of: superior cerebellar peduncle",
+      "bullets": [],
+      "source_lines": [
+        10
+      ],
+      "source_excerpt": "- Decussation of: superior cerebellar peduncle",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 9,
+      "slide_items": 13,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-3-11-spinal-lemniscus",
+      "chapter": "page-3",
+      "structure": "spinal-lemniscus",
+      "title": "Spinal lemniscus",
+      "name": "Spinal lemniscus",
+      "page": 3,
+      "printed_page": 14,
+      "pins": [
+        "spinal-lemniscus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "- 4 Lemnisci:",
+      "bullets": [
+        "(1) Spinal"
+      ],
+      "source_lines": [
+        11,
+        12
+      ],
+      "source_excerpt": "- 4 Lemnisci:\n(1) Spinal",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 10,
+      "slide_items": 13,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-3-13-lateral-lemniscus",
+      "chapter": "page-3",
+      "structure": "lateral-lemniscus",
+      "title": "Lateral lemniscus",
+      "name": "Lateral lemniscus",
+      "page": 3,
+      "printed_page": 14,
+      "pins": [
+        "lateral-lemniscus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "(2) Lateral",
+      "bullets": [],
+      "source_lines": [
+        13
+      ],
+      "source_excerpt": "(2) Lateral",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 11,
+      "slide_items": 13,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-3-14-medial-lemniscus",
+      "chapter": "page-3",
+      "structure": "medial-lemniscus",
+      "title": "Medial lemniscus",
+      "name": "Medial lemniscus",
+      "page": 3,
+      "printed_page": 14,
+      "pins": [
+        "medial-lemniscus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "(3) Medial",
+      "bullets": [],
+      "source_lines": [
+        14
+      ],
+      "source_excerpt": "(3) Medial",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 12,
+      "slide_items": 13,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-3-15-trigeminal-lemniscus",
+      "chapter": "page-3",
+      "structure": "trigeminal-lemniscus",
+      "title": "Trigeminal lemniscus",
+      "name": "Trigeminal lemniscus",
+      "page": 3,
+      "printed_page": 14,
+      "pins": [
+        "trigeminal-lemniscus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "(4) Trigeminal",
+      "bullets": [],
+      "source_lines": [
+        15
+      ],
+      "source_excerpt": "(4) Trigeminal",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 13,
+      "slide_items": 13,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-4-0-spinal-lemniscus",
+      "chapter": "page-4",
+      "structure": "spinal-lemniscus",
+      "title": "Spinal lemniscus",
+      "name": "Spinal lemniscus",
+      "page": 4,
+      "printed_page": 15,
+      "pins": [
+        "spinal-lemniscus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "(1) Spinal lemniscus:",
+      "bullets": [
+        "- it is a part of spinothalamic tract responsible for carrying sensation of",
+        "pain, temperature and crude touch from body below head"
+      ],
+      "source_lines": [
+        0,
+        1,
+        2
+      ],
+      "source_excerpt": "(1) Spinal lemniscus:\n- it is a part of spinothalamic tract responsible for carrying sensation of\npain, temperature and crude touch from body below head",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 1,
+      "slide_items": 7,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-4-3-lateral-lemniscus",
+      "chapter": "page-4",
+      "structure": "lateral-lemniscus",
+      "title": "Lateral lemniscus",
+      "name": "Lateral lemniscus",
+      "page": 4,
+      "printed_page": 15,
+      "pins": [
+        "lateral-lemniscus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "(2) Lateral lemniscus:",
+      "bullets": [
+        "- it is a part of the auditory pathway responsible for hearing",
+        "Through its connection with the contralateral inferior colliculus of midbrain"
+      ],
+      "source_lines": [
+        3,
+        4,
+        5
+      ],
+      "source_excerpt": "(2) Lateral lemniscus:\n- it is a part of the auditory pathway responsible for hearing\nThrough its connection with the contralateral inferior colliculus of midbrain",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 2,
+      "slide_items": 7,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-4-6-medial-lemniscus",
+      "chapter": "page-4",
+      "structure": "medial-lemniscus",
+      "title": "Medial lemniscus",
+      "name": "Medial lemniscus",
+      "page": 4,
+      "printed_page": 15,
+      "pins": [
+        "medial-lemniscus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "(3) Medial lemniscus:",
+      "bullets": [
+        "- it is part of the dorsal column lemniscus pathway,",
+        "which important for somato-sensation as fine touch and pressure"
+      ],
+      "source_lines": [
+        6,
+        7,
+        8
+      ],
+      "source_excerpt": "(3) Medial lemniscus:\n- it is part of the dorsal column lemniscus pathway,\nwhich important for somato-sensation as fine touch and pressure",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 3,
+      "slide_items": 7,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-4-9-trigeminal-lemniscus",
+      "chapter": "page-4",
+      "structure": "trigeminal-lemniscus",
+      "title": "Trigeminal lemniscus",
+      "name": "Trigeminal lemniscus",
+      "page": 4,
+      "printed_page": 15,
+      "pins": [
+        "trigeminal-lemniscus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "(4) Trigeminal lemniscus:",
+      "bullets": [
+        "- it is a part of trigeminal tract responsible for carrying sensation from face"
+      ],
+      "source_lines": [
+        9,
+        10
+      ],
+      "source_excerpt": "(4) Trigeminal lemniscus:\n- it is a part of trigeminal tract responsible for carrying sensation from face",
+      "plate": "inferior",
+      "diagram": false,
+      "study_focus": "inferior",
+      "internal": false,
+      "slide_item": 4,
+      "slide_items": 7,
+      "section_key": "inferior"
+    },
+    {
+      "id": "bs-4-11-red-nucleus",
+      "chapter": "page-4",
+      "structure": "red-nucleus",
+      "title": "Red nucleus",
+      "name": "Red nucleus",
+      "page": 4,
+      "printed_page": 15,
+      "pins": [
+        "red-nucleus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Red nucleus.l",
+        "Red nucleus.r"
+      ],
+      "text": "Superior collicular level of midbrain:",
+      "bullets": [
+        "- Red nucleus: - important for motor coordination through rubrospinal tract"
+      ],
+      "source_lines": [
+        11,
+        12
+      ],
+      "source_excerpt": "Superior collicular level of midbrain:\n- Red nucleus: - important for motor coordination through rubrospinal tract",
+      "plate": "superior",
+      "diagram": false,
+      "study_focus": "superior",
+      "internal": true,
+      "slide_item": 5,
+      "slide_items": 7,
+      "section_key": "superior"
+    },
+    {
+      "id": "bs-4-13-oculomotor-nucleus",
+      "chapter": "page-4",
+      "structure": "oculomotor-nucleus",
+      "title": "Oculomotor nucleus",
+      "name": "Oculomotor nucleus",
+      "page": 4,
+      "printed_page": 15,
+      "pins": [
+        "oculomotor-nucleus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Nucleus of oculomotor nerve.l",
+        "Nucleus of oculomotor nerve.r"
+      ],
+      "text": "- Oculomotor nucleus:",
+      "bullets": [],
+      "source_lines": [
+        13
+      ],
+      "source_excerpt": "- Oculomotor nucleus:",
+      "plate": "superior",
+      "diagram": false,
+      "study_focus": "superior",
+      "internal": true,
+      "slide_item": 6,
+      "slide_items": 7,
+      "section_key": "superior"
+    },
+    {
+      "id": "bs-4-14-superior-colliculi",
+      "chapter": "page-4",
+      "structure": "superior-colliculi",
+      "title": "Compare the two midbrain levels",
+      "name": "Compare the two midbrain levels",
+      "page": 4,
+      "printed_page": 15,
+      "pins": [
+        "superior-colliculi"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Superior colliculus.l",
+        "Superior colliculus.r"
+      ],
+      "text": "- lateral lemniscus is not present at level of superior colliculus in midbrain",
+      "bullets": [],
+      "source_lines": [
+        14
+      ],
+      "source_excerpt": "- lateral lemniscus is not present at level of superior colliculus in midbrain",
+      "plate": "superior",
+      "diagram": false,
+      "study_focus": "superior",
+      "internal": false,
+      "slide_item": 7,
+      "slide_items": 7,
+      "section_key": "superior"
+    },
+    {
+      "id": "bs-5-0-pons",
+      "chapter": "page-5",
+      "structure": "pons",
+      "title": "Pons · anterior (basilar) surface",
+      "name": "Pons · anterior (basilar) surface",
+      "page": 5,
+      "printed_page": 16,
+      "pins": [
+        "pons"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "Pons",
+      "bullets": [
+        "(A) The anterior surface: (Basilar part)"
+      ],
+      "source_lines": [
+        0,
+        1
+      ],
+      "source_excerpt": "Pons\n(A) The anterior surface: (Basilar part)",
+      "plate": "anterior",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "slide_item": 1,
+      "slide_items": 11
+    },
+    {
+      "id": "bs-5-2-mcp",
+      "chapter": "page-5",
+      "structure": "mcp",
+      "title": "Middle cerebellar peduncle",
+      "name": "Middle cerebellar peduncle",
+      "page": 5,
+      "printed_page": 16,
+      "pins": [
+        "mcp"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- the pons is connected with cerebellum through the middle cerebellar peduncles",
+      "bullets": [],
+      "source_lines": [
+        2
+      ],
+      "source_excerpt": "- the pons is connected with cerebellum through the middle cerebellar peduncles",
+      "plate": "anterior",
+      "diagram": false,
+      "study_focus": "anterior",
+      "internal": false,
+      "slide_item": 2,
+      "slide_items": 11
+    },
+    {
+      "id": "bs-5-3-basilar-groove",
+      "chapter": "page-5",
+      "structure": "basilar-groove",
+      "title": "Basilar groove",
+      "name": "Basilar groove",
+      "page": 5,
+      "printed_page": 16,
+      "pins": [
+        "basilar-groove"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- It contains the basilar groove that lodges the basilar artery .",
+      "bullets": [],
+      "source_lines": [
+        3
+      ],
+      "source_excerpt": "- It contains the basilar groove that lodges the basilar artery .",
+      "plate": "anterior",
+      "diagram": false,
+      "study_focus": "anterior",
+      "internal": false,
+      "slide_item": 3,
+      "slide_items": 11
+    },
+    {
+      "id": "bs-5-4-cn5",
+      "chapter": "page-5",
+      "structure": "cn5",
+      "title": "Trigeminal nerve · V",
+      "name": "Trigeminal nerve · V",
+      "page": 5,
+      "printed_page": 16,
+      "pins": [
+        "cn5"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Trigeminal nerve (V).l",
+        "Trigeminal nerve (V).r"
+      ],
+      "text": "- The trigeminal nerve (5):",
+      "bullets": [
+        "- emerges from middle part of the pons",
+        "at its junction with the middle cerebellar peduncle."
+      ],
+      "source_lines": [
+        4,
+        5,
+        6
+      ],
+      "source_excerpt": "- The trigeminal nerve (5):\n- emerges from middle part of the pons\nat its junction with the middle cerebellar peduncle.",
+      "plate": "anterior",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "slide_item": 4,
+      "slide_items": 11
+    },
+    {
+      "id": "bs-5-7-cn6",
+      "chapter": "page-5",
+      "structure": "cn6",
+      "title": "Pontomedullary junction · VI, VII & VIII",
+      "name": "Pontomedullary junction · VI, VII & VIII",
+      "page": 5,
+      "printed_page": 16,
+      "pins": [
+        "cn6"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Abducens nerve (VI).l",
+        "Abducens nerve (VI).r"
+      ],
+      "text": "- The abducent nerve (6), facial (7) and vestibulocochlear nerves (8):",
+      "bullets": [
+        "- emerge at the lower border of the pons; between it and the medulla."
+      ],
+      "source_lines": [
+        7,
+        8
+      ],
+      "source_excerpt": "- The abducent nerve (6), facial (7) and vestibulocochlear nerves (8):\n- emerge at the lower border of the pons; between it and the medulla.",
+      "plate": "anterior",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "related": [
+        {
+          "structure": "cn7",
+          "name": "Facial nerve · VII",
+          "text": "facial (7)",
+          "bullets": [],
+          "targets": [
+            "Facial nerve (VII).l",
+            "Facial nerve (VII).r"
+          ]
+        },
+        {
+          "structure": "cn8",
+          "name": "Vestibulocochlear nerve · VIII",
+          "text": "vestibulocochlear nerves (8)",
+          "bullets": [],
+          "targets": [
+            "Vestibulocochlear nerve (VIII).l",
+            "Vestibulocochlear nerve (VIII).r"
+          ]
+        }
+      ],
+      "slide_item": 5,
+      "slide_items": 11
+    },
+    {
+      "id": "bs-5-9-pontine-nuclei",
+      "chapter": "page-5",
+      "structure": "pontine-nuclei",
+      "title": "Pontine nuclei",
+      "name": "Pontine nuclei",
+      "page": 5,
+      "printed_page": 16,
+      "pins": [
+        "pontine-nuclei"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- Nuclei of basilar part:",
+      "bullets": [
+        "- pontine nuclei"
+      ],
+      "source_lines": [
+        9,
+        10
+      ],
+      "source_excerpt": "- Nuclei of basilar part:\n- pontine nuclei",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 6,
+      "slide_items": 11,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-5-11-corticospinal",
+      "chapter": "page-5",
+      "structure": "corticospinal",
+      "title": "Corticospinal tract",
+      "name": "Corticospinal tract",
+      "page": 5,
+      "printed_page": 16,
+      "pins": [
+        "corticospinal"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Base of peduncle.l",
+        "Base of peduncle.r"
+      ],
+      "text": "- Tracts of basilar part:",
+      "bullets": [
+        "- corticospinal tract"
+      ],
+      "source_lines": [
+        11,
+        12
+      ],
+      "source_excerpt": "- Tracts of basilar part:\n- corticospinal tract",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 7,
+      "slide_items": 11,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-5-13-corticobulbar",
+      "chapter": "page-5",
+      "structure": "corticobulbar",
+      "title": "Corticobulbar tract",
+      "name": "Corticobulbar tract",
+      "page": 5,
+      "printed_page": 16,
+      "pins": [
+        "corticobulbar"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Base of peduncle.l",
+        "Base of peduncle.r"
+      ],
+      "text": "- corticobulbar tract",
+      "bullets": [],
+      "source_lines": [
+        13
+      ],
+      "source_excerpt": "- corticobulbar tract",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 8,
+      "slide_items": 11,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-5-14-corticopontine",
+      "chapter": "page-5",
+      "structure": "corticopontine",
+      "title": "Corticopontine tract",
+      "name": "Corticopontine tract",
+      "page": 5,
+      "printed_page": 16,
+      "pins": [
+        "corticopontine"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- corticopontine tract",
+      "bullets": [],
+      "source_lines": [
+        14
+      ],
+      "source_excerpt": "- corticopontine tract",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 9,
+      "slide_items": 11,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-5-15-pontocerebellar",
+      "chapter": "page-5",
+      "structure": "pontocerebellar",
+      "title": "Pontocerebellar fibers",
+      "name": "Pontocerebellar fibers",
+      "page": 5,
+      "printed_page": 16,
+      "pins": [
+        "pontocerebellar"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- pontocerebellar tract",
+      "bullets": [],
+      "source_lines": [
+        15
+      ],
+      "source_excerpt": "- pontocerebellar tract",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 10,
+      "slide_items": 11,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-5-16-mcp",
+      "chapter": "page-5",
+      "structure": "mcp",
+      "title": "Middle cerebellar peduncle",
+      "name": "Middle cerebellar peduncle",
+      "page": 5,
+      "printed_page": 16,
+      "pins": [
+        "mcp"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- middle cerebellar peduncle",
+      "bullets": [],
+      "source_lines": [
+        16
+      ],
+      "source_excerpt": "- middle cerebellar peduncle",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 11,
+      "slide_items": 11,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-0-pontine-tegmentum",
+      "chapter": "page-6",
+      "structure": "pontine-tegmentum",
+      "title": "Pontine tegmentum",
+      "name": "Pontine tegmentum",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "pontine-tegmentum"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "(B) The posterior surface: (tegmentum part)",
+      "bullets": [
+        "- it forms the upper part of the floor of the 4th ventricle."
+      ],
+      "source_lines": [
+        0,
+        1
+      ],
+      "source_excerpt": "(B) The posterior surface: (tegmentum part)\n- it forms the upper part of the floor of the 4th ventricle.",
+      "plate": "posterior",
+      "diagram": false,
+      "study_focus": "posterior",
+      "internal": false,
+      "slide_item": 1,
+      "slide_items": 22
+    },
+    {
+      "id": "bs-6-2-sulcus-limitans",
+      "chapter": "page-6",
+      "structure": "sulcus-limitans",
+      "title": "Sulcus limitans",
+      "name": "Sulcus limitans",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "sulcus-limitans"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- limitans sulcus: separates medial eminence from the upper vestibular area .",
+      "bullets": [],
+      "source_lines": [
+        2
+      ],
+      "source_excerpt": "- limitans sulcus: separates medial eminence from the upper vestibular area .",
+      "plate": "posterior",
+      "diagram": false,
+      "study_focus": "posterior",
+      "internal": false,
+      "slide_item": 2,
+      "slide_items": 22
+    },
+    {
+      "id": "bs-6-3-facial-colliculus",
+      "chapter": "page-6",
+      "structure": "facial-colliculus",
+      "title": "Facial colliculus",
+      "name": "Facial colliculus",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "facial-colliculus"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- Facial colliculus:",
+      "bullets": [
+        "- a prominent elevation represents the lower part of medial eminence",
+        "- it is produced by the abducent nucleus surrounded by the facia nerve fibers."
+      ],
+      "source_lines": [
+        3,
+        4,
+        5
+      ],
+      "source_excerpt": "- Facial colliculus:\n- a prominent elevation represents the lower part of medial eminence\n- it is produced by the abducent nucleus surrounded by the facia nerve fibers.",
+      "plate": "posterior",
+      "diagram": false,
+      "study_focus": "posterior",
+      "internal": false,
+      "slide_item": 3,
+      "slide_items": 22
+    },
+    {
+      "id": "bs-6-6-trigeminal-nuclei",
+      "chapter": "page-6",
+      "structure": "trigeminal-nuclei",
+      "title": "Trigeminal nuclei",
+      "name": "Trigeminal nuclei",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "trigeminal-nuclei"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- Nuclei of tegmentum part:",
+      "bullets": [
+        "- Trigeminal nuclei"
+      ],
+      "source_lines": [
+        6,
+        7
+      ],
+      "source_excerpt": "- Nuclei of tegmentum part:\n- Trigeminal nuclei",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 4,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-8-abducens-nucleus",
+      "chapter": "page-6",
+      "structure": "abducens-nucleus",
+      "title": "Abducens nucleus",
+      "name": "Abducens nucleus",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "abducens-nucleus"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Nucleus of abducens nerve.l",
+        "Nucleus of abducens nerve.r"
+      ],
+      "text": "- Abducent nucleus",
+      "bullets": [],
+      "source_lines": [
+        8
+      ],
+      "source_excerpt": "- Abducent nucleus",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": true,
+      "slide_item": 5,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-9-facial-nucleus",
+      "chapter": "page-6",
+      "structure": "facial-nucleus",
+      "title": "Facial motor nucleus",
+      "name": "Facial motor nucleus",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "facial-nucleus"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Motor nucleus of facial nerve.l",
+        "Motor nucleus of facial nerve.r"
+      ],
+      "text": "- Facial motor nuclei",
+      "bullets": [],
+      "source_lines": [
+        9
+      ],
+      "source_excerpt": "- Facial motor nuclei",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": true,
+      "slide_item": 6,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-10-vestibular-nuclei",
+      "chapter": "page-6",
+      "structure": "vestibular-nuclei",
+      "title": "Vestibular nuclei",
+      "name": "Vestibular nuclei",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "vestibular-nuclei"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Vestibular nuclei.l",
+        "Vestibular nuclei.r"
+      ],
+      "text": "- Vestibular nuclei",
+      "bullets": [],
+      "source_lines": [
+        10
+      ],
+      "source_excerpt": "- Vestibular nuclei",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": true,
+      "slide_item": 7,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-11-cochlear-nuclei",
+      "chapter": "page-6",
+      "structure": "cochlear-nuclei",
+      "title": "Cochlear nuclei",
+      "name": "Cochlear nuclei",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "cochlear-nuclei"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Anterior cochlear nucleus.l",
+        "Anterior cochlear nucleus.r"
+      ],
+      "text": "- Cochlear nuclei",
+      "bullets": [],
+      "source_lines": [
+        11
+      ],
+      "source_excerpt": "- Cochlear nuclei",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": true,
+      "slide_item": 8,
+      "slide_items": 22
+    },
+    {
+      "id": "bs-6-12-superior-salivatory",
+      "chapter": "page-6",
+      "structure": "superior-salivatory",
+      "title": "Superior salivatory nucleus",
+      "name": "Superior salivatory nucleus",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "superior-salivatory"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Superior salivatory nucleus.l",
+        "Superior salivatory nucleus.r"
+      ],
+      "text": "- Superior salivary nucleus",
+      "bullets": [],
+      "source_lines": [
+        12
+      ],
+      "source_excerpt": "- Superior salivary nucleus",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": true,
+      "slide_item": 9,
+      "slide_items": 22
+    },
+    {
+      "id": "bs-6-13-inferior-salivatory",
+      "chapter": "page-6",
+      "structure": "inferior-salivatory",
+      "title": "Inferior salivatory nucleus",
+      "name": "Inferior salivatory nucleus",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "inferior-salivatory"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Inferior salivatory nucleus.l",
+        "Inferior salivatory nucleus.r"
+      ],
+      "text": "- Inferior salivary nucleus",
+      "bullets": [],
+      "source_lines": [
+        13
+      ],
+      "source_excerpt": "- Inferior salivary nucleus",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": true,
+      "slide_item": 10,
+      "slide_items": 22
+    },
+    {
+      "id": "bs-6-14-trigeminal-lemniscus",
+      "chapter": "page-6",
+      "structure": "trigeminal-lemniscus",
+      "title": "Trigeminal lemniscus",
+      "name": "Trigeminal lemniscus",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "trigeminal-lemniscus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "- Tracts of tegmentum part:",
+      "bullets": [
+        "- Sensory:",
+        "- Trigeminal lemniscus"
+      ],
+      "source_lines": [
+        14,
+        15,
+        16
+      ],
+      "source_excerpt": "- Tracts of tegmentum part:\n- Sensory:\n- Trigeminal lemniscus",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 11,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-17-dorsal-trigeminal",
+      "chapter": "page-6",
+      "structure": "dorsal-trigeminal",
+      "title": "Dorsal trigeminal tract",
+      "name": "Dorsal trigeminal tract",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "dorsal-trigeminal"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- Dorsal trigeminal tract",
+      "bullets": [],
+      "source_lines": [
+        17
+      ],
+      "source_excerpt": "- Dorsal trigeminal tract",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 12,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-18-ventral-trigeminal",
+      "chapter": "page-6",
+      "structure": "ventral-trigeminal",
+      "title": "Ventral trigeminal tract",
+      "name": "Ventral trigeminal tract",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "ventral-trigeminal"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- Ventral trigeminal tract",
+      "bullets": [],
+      "source_lines": [
+        18
+      ],
+      "source_excerpt": "- Ventral trigeminal tract",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 13,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-19-anterior-trigeminothalamic",
+      "chapter": "page-6",
+      "structure": "anterior-trigeminothalamic",
+      "title": "Anterior trigeminothalamic tract",
+      "name": "Anterior trigeminothalamic tract",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "anterior-trigeminothalamic"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- Anterior trigemino-thalamic tract",
+      "bullets": [],
+      "source_lines": [
+        19
+      ],
+      "source_excerpt": "- Anterior trigemino-thalamic tract",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 14,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-20-central-tegmental",
+      "chapter": "page-6",
+      "structure": "central-tegmental",
+      "title": "Central tegmental tract",
+      "name": "Central tegmental tract",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "central-tegmental"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- Central tegmental tract",
+      "bullets": [],
+      "source_lines": [
+        20
+      ],
+      "source_excerpt": "- Central tegmental tract",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 15,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-21-medial-lemniscus",
+      "chapter": "page-6",
+      "structure": "medial-lemniscus",
+      "title": "Medial lemniscus",
+      "name": "Medial lemniscus",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "medial-lemniscus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "- Medial lemniscus",
+      "bullets": [],
+      "source_lines": [
+        21
+      ],
+      "source_excerpt": "- Medial lemniscus",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 16,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-22-lateral-lemniscus",
+      "chapter": "page-6",
+      "structure": "lateral-lemniscus",
+      "title": "Lateral lemniscus",
+      "name": "Lateral lemniscus",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "lateral-lemniscus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "- Lateral lemniscus",
+      "bullets": [],
+      "source_lines": [
+        22
+      ],
+      "source_excerpt": "- Lateral lemniscus",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 17,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-23-vestibulocerebellar",
+      "chapter": "page-6",
+      "structure": "vestibulocerebellar",
+      "title": "Vestibulocerebellar tract",
+      "name": "Vestibulocerebellar tract",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "vestibulocerebellar"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- Motor:",
+      "bullets": [
+        "- Vestibulo-cerebellar tract"
+      ],
+      "source_lines": [
+        23,
+        24
+      ],
+      "source_excerpt": "- Motor:\n- Vestibulo-cerebellar tract",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 18,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-25-medial-vestibulospinal",
+      "chapter": "page-6",
+      "structure": "medial-vestibulospinal",
+      "title": "Medial vestibulospinal tract",
+      "name": "Medial vestibulospinal tract",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "medial-vestibulospinal"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- Medial vestibulospinal tract",
+      "bullets": [],
+      "source_lines": [
+        25
+      ],
+      "source_excerpt": "- Medial vestibulospinal tract",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 19,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-26-lateral-vestibulospinal",
+      "chapter": "page-6",
+      "structure": "lateral-vestibulospinal",
+      "title": "Lateral vestibulospinal tract",
+      "name": "Lateral vestibulospinal tract",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "lateral-vestibulospinal"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "- Lateral vestibulospinal tract",
+      "bullets": [],
+      "source_lines": [
+        26
+      ],
+      "source_excerpt": "- Lateral vestibulospinal tract",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 20,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-27-mlf",
+      "chapter": "page-6",
+      "structure": "mlf",
+      "title": "Medial longitudinal fasciculus",
+      "name": "Medial longitudinal fasciculus",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "mlf"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "- Medial longitudinal fasciculus",
+      "bullets": [],
+      "source_lines": [
+        27
+      ],
+      "source_excerpt": "- Medial longitudinal fasciculus",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 21,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-6-28-icp",
+      "chapter": "page-6",
+      "structure": "icp",
+      "title": "Inferior cerebellar peduncle",
+      "name": "Inferior cerebellar peduncle",
+      "page": 6,
+      "printed_page": 17,
+      "pins": [
+        "icp"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "text": "- inferior cerebellar tract",
+      "bullets": [],
+      "source_lines": [
+        28
+      ],
+      "source_excerpt": "- inferior cerebellar tract",
+      "plate": "pons",
+      "diagram": false,
+      "study_focus": "pons",
+      "internal": false,
+      "slide_item": 22,
+      "slide_items": 22,
+      "section_key": "pons"
+    },
+    {
+      "id": "bs-7-0-medulla",
+      "chapter": "page-7",
+      "structure": "medulla",
+      "title": "Medulla · anterior surface",
+      "name": "Medulla · anterior surface",
+      "page": 7,
+      "printed_page": 18,
+      "pins": [
+        "medulla"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "text": "Medulla oblongata",
+      "bullets": [
+        "(A) The anterior surface:"
+      ],
+      "source_lines": [
+        0,
+        1
+      ],
+      "source_excerpt": "Medulla oblongata\n(A) The anterior surface:",
+      "plate": "medulla-anterior",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "slide_item": 1,
+      "slide_items": 6
+    },
+    {
+      "id": "bs-7-2-icp",
+      "chapter": "page-7",
+      "structure": "icp",
+      "title": "Inferior cerebellar peduncle",
+      "name": "Inferior cerebellar peduncle",
+      "page": 7,
+      "printed_page": 18,
+      "pins": [
+        "icp"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "text": "- Medulla is connected with cerebellum through inferior cerebellar peduncles",
+      "bullets": [],
+      "source_lines": [
+        2
+      ],
+      "source_excerpt": "- Medulla is connected with cerebellum through inferior cerebellar peduncles",
+      "plate": "medulla-anterior",
+      "diagram": false,
+      "study_focus": "medulla-anterior",
+      "internal": false,
+      "slide_item": 2,
+      "slide_items": 6
+    },
+    {
+      "id": "bs-7-3-pyramid",
+      "chapter": "page-7",
+      "structure": "pyramid",
+      "title": "Pyramid",
+      "name": "Pyramid",
+      "page": 7,
+      "printed_page": 18,
+      "pins": [
+        "pyramid"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Pyramid of medulla oblongata.l",
+        "Pyramid of medulla oblongata.r"
+      ],
+      "text": "- Pyramid: - it is formed by the corticospinal fibers before its decussation",
+      "bullets": [],
+      "source_lines": [
+        3
+      ],
+      "source_excerpt": "- Pyramid: - it is formed by the corticospinal fibers before its decussation",
+      "plate": "medulla-anterior",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "slide_item": 3,
+      "slide_items": 6
+    },
+    {
+      "id": "bs-7-4-olive",
+      "chapter": "page-7",
+      "structure": "olive",
+      "title": "Olive",
+      "name": "Olive",
+      "page": 7,
+      "printed_page": 18,
+      "pins": [
+        "olive"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Olive.l",
+        "Olive.r"
+      ],
+      "text": "- Olive: - it is formed by the olivary nuclei mainly the inferior olivary nucleus",
+      "bullets": [],
+      "source_lines": [
+        4
+      ],
+      "source_excerpt": "- Olive: - it is formed by the olivary nuclei mainly the inferior olivary nucleus",
+      "plate": "medulla-anterior",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "slide_item": 4,
+      "slide_items": 6
+    },
+    {
+      "id": "bs-7-5-cn9",
+      "chapter": "page-7",
+      "structure": "cn9",
+      "title": "Postolivary nerves · IX, X & XI",
+      "name": "Postolivary nerves · IX, X & XI",
+      "page": 7,
+      "printed_page": 18,
+      "pins": [
+        "cn9"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Glossopharyngeal nerve (IX).l",
+        "Glossopharyngeal nerve (IX).r"
+      ],
+      "text": "- Glossopharyngeal (9), Vagus (10), Cranial accessory nerve (11):",
+      "bullets": [
+        "- emerge between olive and inferior cerebellar peduncle"
+      ],
+      "source_lines": [
+        5,
+        6
+      ],
+      "source_excerpt": "- Glossopharyngeal (9), Vagus (10), Cranial accessory nerve (11):\n- emerge between olive and inferior cerebellar peduncle",
+      "plate": "anterior",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "related": [
+        {
+          "structure": "cn10",
+          "name": "Vagus nerve · X",
+          "text": "Vagus (10)",
+          "bullets": [],
+          "targets": [
+            "Vagus nerve (X).l",
+            "Vagus nerve (X).r"
+          ]
+        },
+        {
+          "structure": "cn11",
+          "name": "Accessory nerve · XI",
+          "text": "Cranial accessory nerve (11)",
+          "bullets": [],
+          "targets": [
+            "Accessory nerve (XI).l",
+            "Accessory nerve (XI).r"
+          ]
+        }
+      ],
+      "slide_item": 5,
+      "slide_items": 6
+    },
+    {
+      "id": "bs-7-7-cn12",
+      "chapter": "page-7",
+      "structure": "cn12",
+      "title": "Hypoglossal nerve · XII",
+      "name": "Hypoglossal nerve · XII",
+      "page": 7,
+      "printed_page": 18,
+      "pins": [
+        "cn12"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Hypoglossal nerve (XII).l",
+        "Hypoglossal nerve (XII).r"
+      ],
+      "text": "- Hypoglossal nerve (12):",
+      "bullets": [
+        "- emerge between pyramid and olive"
+      ],
+      "source_lines": [
+        7,
+        8
+      ],
+      "source_excerpt": "- Hypoglossal nerve (12):\n- emerge between pyramid and olive",
+      "plate": "anterior",
+      "diagram": false,
+      "study_focus": null,
+      "internal": false,
+      "slide_item": 6,
+      "slide_items": 6
+    },
+    {
+      "id": "bs-8-0-medulla",
+      "chapter": "page-8",
+      "structure": "medulla",
+      "title": "Medulla · posterior surface",
+      "name": "Medulla · posterior surface",
+      "page": 8,
+      "printed_page": 19,
+      "pins": [
+        "medulla"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "text": "(B) The posterior surface:",
+      "bullets": [
+        "- it forms the lower part of the floor of the 4th ventricle."
+      ],
+      "source_lines": [
+        0,
+        1
+      ],
+      "source_excerpt": "(B) The posterior surface:\n- it forms the lower part of the floor of the 4th ventricle.",
+      "plate": "medulla-posterior",
+      "diagram": false,
+      "study_focus": "medulla-posterior",
+      "internal": false,
+      "slide_item": 1,
+      "slide_items": 5
+    },
+    {
+      "id": "bs-8-2-posteromedian",
+      "chapter": "page-8",
+      "structure": "posteromedian",
+      "title": "Posteromedian sulcus",
+      "name": "Posteromedian sulcus",
+      "page": 8,
+      "printed_page": 19,
+      "pins": [
+        "posteromedian"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "text": "- Posteromedian sulcus:",
+      "bullets": [],
+      "source_lines": [
+        2
+      ],
+      "source_excerpt": "- Posteromedian sulcus:",
+      "plate": "medulla-posterior",
+      "diagram": false,
+      "study_focus": "medulla-posterior",
+      "internal": false,
+      "slide_item": 2,
+      "slide_items": 5
+    },
+    {
+      "id": "bs-8-3-gracile",
+      "chapter": "page-8",
+      "structure": "gracile",
+      "title": "Gracile fasciculus",
+      "name": "Gracile fasciculus",
+      "page": 8,
+      "printed_page": 19,
+      "pins": [
+        "gracile"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Gracile fasciculus"
+      ],
+      "text": "- Gracile fasciculus: - its upper end expands to form gracile tubercle (nucleus)",
+      "bullets": [],
+      "source_lines": [
+        3
+      ],
+      "source_excerpt": "- Gracile fasciculus: - its upper end expands to form gracile tubercle (nucleus)",
+      "plate": "medulla-posterior",
+      "diagram": false,
+      "study_focus": "medulla-posterior",
+      "internal": false,
+      "slide_item": 3,
+      "slide_items": 5
+    },
+    {
+      "id": "bs-8-4-cuneate",
+      "chapter": "page-8",
+      "structure": "cuneate",
+      "title": "Cuneate fasciculus",
+      "name": "Cuneate fasciculus",
+      "page": 8,
+      "printed_page": 19,
+      "pins": [
+        "cuneate"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Cuneate fasciculus"
+      ],
+      "text": "- Cuneate fasciculus: - its upper end expands to form cuneate tubercle (nucleus)",
+      "bullets": [],
+      "source_lines": [
+        4
+      ],
+      "source_excerpt": "- Cuneate fasciculus: - its upper end expands to form cuneate tubercle (nucleus)",
+      "plate": "medulla-posterior",
+      "diagram": false,
+      "study_focus": "medulla-posterior",
+      "internal": false,
+      "slide_item": 4,
+      "slide_items": 5
+    },
+    {
+      "id": "bs-8-5-vagal-trigone",
+      "chapter": "page-8",
+      "structure": "vagal-trigone",
+      "title": "Vagal trigone",
+      "name": "Vagal trigone",
+      "page": 8,
+      "printed_page": 19,
+      "pins": [
+        "vagal-trigone"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "text": "- Vagal trigone: - overlies dorsal nucleus of vagus.",
+      "bullets": [],
+      "source_lines": [
+        5
+      ],
+      "source_excerpt": "- Vagal trigone: - overlies dorsal nucleus of vagus.",
+      "plate": "medulla-posterior",
+      "diagram": false,
+      "study_focus": "medulla-posterior",
+      "internal": false,
+      "slide_item": 5,
+      "slide_items": 5
+    },
+    {
+      "id": "bs-9-0-medial-lemniscus",
+      "chapter": "page-9",
+      "structure": "medial-lemniscus",
+      "title": "Medial lemniscus",
+      "name": "Medial lemniscus",
+      "page": 9,
+      "printed_page": 20,
+      "pins": [
+        "medial-lemniscus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "- Internal structure of Medulla oblongata:",
+      "bullets": [
+        "(1) Medial lemniscus:",
+        "- it is part of the dorsal column lemniscus pathway,",
+        "which important for somato-sensation as fine touch and pressure"
+      ],
+      "source_lines": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "source_excerpt": "- Internal structure of Medulla oblongata:\n(1) Medial lemniscus:\n- it is part of the dorsal column lemniscus pathway,\nwhich important for somato-sensation as fine touch and pressure",
+      "plate": "medulla",
+      "diagram": false,
+      "study_focus": "medulla",
+      "internal": false,
+      "slide_item": 1,
+      "slide_items": 6,
+      "section_key": "medulla"
+    },
+    {
+      "id": "bs-9-4-internal-arcuate",
+      "chapter": "page-9",
+      "structure": "internal-arcuate",
+      "title": "Internal arcuate fibers · sensory crossing",
+      "name": "Internal arcuate fibers · sensory crossing",
+      "page": 9,
+      "printed_page": 20,
+      "pins": [
+        "internal-arcuate"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "text": "- gracile and cuneate tracts relay in gracile and cuneate nucli",
+      "bullets": [
+        "- then the fibers cross to the opposite side as internal arcuate fibers,",
+        "- then ascend as medial lemniscus"
+      ],
+      "source_lines": [
+        4,
+        5,
+        6
+      ],
+      "source_excerpt": "- gracile and cuneate tracts relay in gracile and cuneate nucli\n- then the fibers cross to the opposite side as internal arcuate fibers,\n- then ascend as medial lemniscus",
+      "plate": "medulla",
+      "diagram": false,
+      "study_focus": "medulla",
+      "internal": false,
+      "slide_item": 2,
+      "slide_items": 6,
+      "section_key": "medulla"
+    },
+    {
+      "id": "bs-9-7-spinal-lemniscus",
+      "chapter": "page-9",
+      "structure": "spinal-lemniscus",
+      "title": "Spinal lemniscus",
+      "name": "Spinal lemniscus",
+      "page": 9,
+      "printed_page": 20,
+      "pins": [
+        "spinal-lemniscus"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "text": "(2) Spinal lemniscus:",
+      "bullets": [
+        "- it is a part of spinothalamic tract responsible for carrying sensation of",
+        "pain, temperature and crude touch from body below head"
+      ],
+      "source_lines": [
+        7,
+        8,
+        9
+      ],
+      "source_excerpt": "(2) Spinal lemniscus:\n- it is a part of spinothalamic tract responsible for carrying sensation of\npain, temperature and crude touch from body below head",
+      "plate": "medulla",
+      "diagram": false,
+      "study_focus": "medulla",
+      "internal": false,
+      "slide_item": 3,
+      "slide_items": 6,
+      "section_key": "medulla"
+    },
+    {
+      "id": "bs-9-10-posterior-spinocerebellar",
+      "chapter": "page-9",
+      "structure": "posterior-spinocerebellar",
+      "title": "Posterior spinocerebellar tract",
+      "name": "Posterior spinocerebellar tract",
+      "page": 9,
+      "printed_page": 20,
+      "pins": [
+        "posterior-spinocerebellar"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "text": "(3) The posterior (or dorsal) spinocerebellar tract:",
+      "bullets": [
+        "carries proprioceptive sensation from the lower limb and trunk."
+      ],
+      "source_lines": [
+        10,
+        11
+      ],
+      "source_excerpt": "(3) The posterior (or dorsal) spinocerebellar tract:\ncarries proprioceptive sensation from the lower limb and trunk.",
+      "plate": "medulla",
+      "diagram": false,
+      "study_focus": "medulla",
+      "internal": false,
+      "slide_item": 4,
+      "slide_items": 6,
+      "section_key": "medulla"
+    },
+    {
+      "id": "bs-9-12-cuneocerebellar",
+      "chapter": "page-9",
+      "structure": "cuneocerebellar",
+      "title": "Cuneocerebellar tract",
+      "name": "Cuneocerebellar tract",
+      "page": 9,
+      "printed_page": 20,
+      "pins": [
+        "cuneocerebellar"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "text": "(4) The cuneo-cerebellar tract:",
+      "bullets": [
+        "carries proprioceptive sensation from the upper limb"
+      ],
+      "source_lines": [
+        12,
+        13
+      ],
+      "source_excerpt": "(4) The cuneo-cerebellar tract:\ncarries proprioceptive sensation from the upper limb",
+      "plate": "medulla",
+      "diagram": false,
+      "study_focus": "medulla",
+      "internal": false,
+      "slide_item": 5,
+      "slide_items": 6,
+      "section_key": "medulla"
+    },
+    {
+      "id": "bs-9-14-anterior-spinocerebellar",
+      "chapter": "page-9",
+      "structure": "anterior-spinocerebellar",
+      "title": "Anterior spinocerebellar tract",
+      "name": "Anterior spinocerebellar tract",
+      "page": 9,
+      "printed_page": 20,
+      "pins": [
+        "anterior-spinocerebellar"
+      ],
+      "view": "posterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "text": "(5) The anterior (or ventral) spinocerebellar tract:",
+      "bullets": [
+        "is involved in carrying proprioceptive sensation from the lower limb."
+      ],
+      "source_lines": [
+        14,
+        15
+      ],
+      "source_excerpt": "(5) The anterior (or ventral) spinocerebellar tract:\nis involved in carrying proprioceptive sensation from the lower limb.",
+      "plate": "medulla",
+      "diagram": false,
+      "study_focus": "medulla",
+      "internal": false,
+      "slide_item": 6,
+      "slide_items": 6,
+      "section_key": "medulla"
+    },
+    {
+      "id": "brainstem-explorer",
+      "chapter": "explore",
+      "structure": "brainstem",
+      "title": "Complete brainstem · explore & isolate",
+      "name": "Brainstem explorer",
+      "page": 9,
+      "printed_page": 20,
+      "pins": [
+        "brainstem"
+      ],
+      "view": "anterior",
+      "hemisphere": "both",
+      "mode": "stem",
+      "targets": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r",
+        "Midbrain.l",
+        "Midbrain.r",
+        "Pons.l",
+        "Pons.r"
+      ],
+      "text": "Explore every lecture structure. Switch between anterior, posterior and the original sectional levels.",
+      "bullets": [
+        "Select a structure to isolate it or see its exact location on the source diagram."
+      ],
+      "utility": true,
+      "plate": "anterior"
+    }
+  ],
+  "structures": [
+    {
+      "id": "brainstem",
+      "name": "Brainstem",
+      "meshes": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r",
+        "Midbrain.l",
+        "Midbrain.r",
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 1,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "Brain stem",
+      "bullets": [
+        "- the brain stem consists of midbrain, pons and medulla oblongata"
+      ],
+      "aliases": [
+        "brainstem"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior"
+    },
+    {
+      "id": "midbrain",
+      "name": "Midbrain",
+      "meshes": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "page": 2,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "Brain stem",
+      "bullets": [
+        "- the brain stem consists of midbrain, pons and medulla oblongata"
+      ],
+      "aliases": [
+        "midbrain"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior"
+    },
+    {
+      "id": "pons",
+      "name": "Pons",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 5,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "Pons",
+      "bullets": [
+        "(A) The anterior surface: (Basilar part)"
+      ],
+      "aliases": [
+        "pons"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior"
+    },
+    {
+      "id": "medulla",
+      "name": "Medulla oblongata",
+      "meshes": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "page": 7,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "(B) The posterior surface:",
+      "bullets": [
+        "- it forms the lower part of the floor of the 4th ventricle."
+      ],
+      "aliases": [
+        "medulla"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "medulla-anterior"
+    },
+    {
+      "id": "limits",
+      "name": "Posterior commissure → pyramidal decussation",
+      "meshes": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r",
+        "Posterior commissure"
+      ],
+      "page": 1,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- it extends form posterior commissure to pyramidal decussation",
+      "bullets": [],
+      "aliases": [
+        "limits"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior",
+      "diagram_only": true,
+      "clarification": "The dashed 3D arrow locates the named parent region, not a separately segmented tract or nucleus. The original lecture section shows the fine internal relationships; open Reference figure to compare."
+    },
+    {
+      "id": "cranial-nerves",
+      "name": "Cranial nerves III–XII",
+      "meshes": [
+        "Abducens nerve (VI).l",
+        "Abducens nerve (VI).r",
+        "Accessory nerve (XI).l",
+        "Accessory nerve (XI).r",
+        "Facial nerve (VII).l",
+        "Facial nerve (VII).r",
+        "Glossopharyngeal nerve (IX).l",
+        "Glossopharyngeal nerve (IX).r",
+        "Hypoglossal nerve (XII).l",
+        "Hypoglossal nerve (XII).r",
+        "Oculomotor nerve (III).l",
+        "Oculomotor nerve (III).r",
+        "Trigeminal nerve (V).l",
+        "Trigeminal nerve (V).r",
+        "Trochlear nerve (IV).l",
+        "Trochlear nerve (IV).r",
+        "Vagus nerve (X).l",
+        "Vagus nerve (X).r",
+        "Vestibulocochlear nerve (VIII).l",
+        "Vestibulocochlear nerve (VIII).r"
+      ],
+      "page": 1,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- it gives rise to the cranial nerves (3-12)",
+      "bullets": [],
+      "aliases": [
+        "cranial nerves"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior",
+      "clarification": "The spinal root of XI arises from the upper cervical spinal cord. Its cranial component is traditionally described with XI in this lecture; it joins the vagus. Only the proximal portions of cranial nerves are shown around the brainstem."
+    },
+    {
+      "id": "reticular",
+      "name": "Reticular formation",
+      "meshes": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r",
+        "Midbrain.l",
+        "Midbrain.r",
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 1,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- it contains the reticular formation",
+      "bullets": [],
+      "aliases": [
+        "reticular"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "A distributed network in the brainstem tegmentum, not one sharply bounded surface nucleus. Coma is associated with severe injury to arousal networks, often bilateral pontomesencephalic involvement; not every reticular lesion causes coma.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "blood-supply",
+      "name": "Vertebrobasilar system",
+      "meshes": [
+        "Basilar artery",
+        "Vertebral artery.l",
+        "Vertebral artery.r"
+      ],
+      "page": 1,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- it receives blood supply from:",
+      "bullets": [
+        "vertebrobasilar system."
+      ],
+      "aliases": [
+        "blood supply"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "location"
+    },
+    {
+      "id": "cn3",
+      "name": "Oculomotor nerve · III",
+      "meshes": [
+        "Oculomotor nerve (III).l",
+        "Oculomotor nerve (III).r"
+      ],
+      "page": 2,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "(2) it gives rise to the oculomotor nerve (3) and the trochlear nerve (4)",
+      "bullets": [
+        "which supply muscles of the eye"
+      ],
+      "aliases": [
+        "cn3"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior"
+    },
+    {
+      "id": "cn4",
+      "name": "Trochlear nerve · IV",
+      "meshes": [
+        "Trochlear nerve (IV).l",
+        "Trochlear nerve (IV).r"
+      ],
+      "page": 2,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "Mid brain",
+      "bullets": [
+        "- it gives rise to the oculomotor nerve (3) and the trochlear nerve (4)"
+      ],
+      "aliases": [
+        "cn4"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "posterior"
+    },
+    {
+      "id": "cn5",
+      "name": "Trigeminal nerve · V",
+      "meshes": [
+        "Trigeminal nerve (V).l",
+        "Trigeminal nerve (V).r"
+      ],
+      "page": 5,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- The trigeminal nerve (5):",
+      "bullets": [
+        "- emerges from middle part of the pons",
+        "at its junction with the middle cerebellar peduncle."
+      ],
+      "aliases": [
+        "cn5"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior"
+    },
+    {
+      "id": "cn6",
+      "name": "Abducens nerve · VI",
+      "meshes": [
+        "Abducens nerve (VI).l",
+        "Abducens nerve (VI).r"
+      ],
+      "page": 5,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- The abducent nerve (6), facial (7) and vestibulocochlear nerves (8):",
+      "bullets": [
+        "- emerge at the lower border of the pons; between it and the medulla."
+      ],
+      "aliases": [
+        "cn6"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior"
+    },
+    {
+      "id": "cn7",
+      "name": "Facial nerve · VII",
+      "meshes": [
+        "Facial nerve (VII).l",
+        "Facial nerve (VII).r"
+      ],
+      "page": 5,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- The abducent nerve (6), facial (7) and vestibulocochlear nerves (8):",
+      "bullets": [
+        "- emerge at the lower border of the pons; between it and the medulla."
+      ],
+      "aliases": [
+        "cn7"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior"
+    },
+    {
+      "id": "cn8",
+      "name": "Vestibulocochlear nerve · VIII",
+      "meshes": [
+        "Vestibulocochlear nerve (VIII).l",
+        "Vestibulocochlear nerve (VIII).r"
+      ],
+      "page": 5,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- The abducent nerve (6), facial (7) and vestibulocochlear nerves (8):",
+      "bullets": [
+        "- emerge at the lower border of the pons; between it and the medulla."
+      ],
+      "aliases": [
+        "cn8"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior"
+    },
+    {
+      "id": "cn9",
+      "name": "Glossopharyngeal nerve · IX",
+      "meshes": [
+        "Glossopharyngeal nerve (IX).l",
+        "Glossopharyngeal nerve (IX).r"
+      ],
+      "page": 7,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Glossopharyngeal (9), Vagus (10), Cranial accessory nerve (11):",
+      "bullets": [
+        "- emerge between olive and inferior cerebellar peduncle"
+      ],
+      "aliases": [
+        "cn9"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior"
+    },
+    {
+      "id": "cn10",
+      "name": "Vagus nerve · X",
+      "meshes": [
+        "Vagus nerve (X).l",
+        "Vagus nerve (X).r"
+      ],
+      "page": 7,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Glossopharyngeal (9), Vagus (10), Cranial accessory nerve (11):",
+      "bullets": [
+        "- emerge between olive and inferior cerebellar peduncle"
+      ],
+      "aliases": [
+        "cn10"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior"
+    },
+    {
+      "id": "cn11",
+      "name": "Accessory nerve · XI",
+      "meshes": [
+        "Accessory nerve (XI).l",
+        "Accessory nerve (XI).r"
+      ],
+      "page": 7,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Glossopharyngeal (9), Vagus (10), Cranial accessory nerve (11):",
+      "bullets": [
+        "- emerge between olive and inferior cerebellar peduncle"
+      ],
+      "aliases": [
+        "cn11"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior"
+    },
+    {
+      "id": "cn12",
+      "name": "Hypoglossal nerve · XII",
+      "meshes": [
+        "Hypoglossal nerve (XII).l",
+        "Hypoglossal nerve (XII).r"
+      ],
+      "page": 7,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Hypoglossal nerve (12):",
+      "bullets": [
+        "- emerge between pyramid and olive"
+      ],
+      "aliases": [
+        "cn12"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior"
+    },
+    {
+      "id": "aqueduct",
+      "name": "Cerebral aqueduct",
+      "meshes": [
+        "Aqueduct of midbrain"
+      ],
+      "page": 2,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- The midbrain has a narrow lumen called cerebral aqueduct (aqueduct of Sylvius).",
+      "bullets": [
+        "which divides the midbrain into 2 divisions:"
+      ],
+      "aliases": [
+        "aqueduct"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior"
+    },
+    {
+      "id": "peduncle",
+      "name": "Cerebral peduncle",
+      "meshes": [
+        "Base of peduncle.l",
+        "Base of peduncle.r",
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "page": 2,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "(1) Cerebral peduncle:",
+      "bullets": [
+        "- consists of crus cerebri,",
+        "substantia nigra and tegmentum"
+      ],
+      "aliases": [
+        "peduncle"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "The lecture uses cerebral peduncle for crus cerebri, substantia nigra and tegmentum together. The export separately segments only the base of the peduncle; use the original cross-section for the three divisions.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "crus",
+      "name": "Crus cerebri",
+      "meshes": [
+        "Base of peduncle.l",
+        "Base of peduncle.r"
+      ],
+      "page": 3,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- the cerebral crus consists of:",
+      "bullets": [
+        "(1) Corticospinal tract",
+        "(2) Corticobulbar tract",
+        "(3) Front pontine fibers: located most medially.",
+        "(4) Tempro-pontine fibers: located postero-laterally"
+      ],
+      "aliases": [
+        "crus"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "section_key": "inferior"
+    },
+    {
+      "id": "substantia-nigra",
+      "name": "Substantia nigra",
+      "meshes": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "page": 2,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "(3) Substantia nigra, the largest nucleus of midbrain",
+      "bullets": [
+        "(if affected Parkinsonism)."
+      ],
+      "aliases": [
+        "substantia nigra"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "Shown on the original section, dorsal to the crus cerebri. The source mesh does not separately segment substantia nigra. Parkinsonism relates particularly to loss of dopaminergic neurons in pars compacta; the slide wording is preserved.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "tegmentum",
+      "name": "Midbrain tegmentum",
+      "meshes": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "page": 2,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "(1) Cerebral peduncle:",
+      "bullets": [
+        "- consists of crus cerebri,",
+        "substantia nigra and tegmentum"
+      ],
+      "aliases": [
+        "tegmentum"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "tectum",
+      "name": "Tectum · corpora quadrigemina",
+      "meshes": [
+        "Inferior colliculus.l",
+        "Inferior colliculus.r",
+        "Superior colliculus.l",
+        "Superior colliculus.r"
+      ],
+      "page": 2,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "(2) Tectum :",
+      "bullets": [
+        "- consists of 4 colliculi (corpora quadrigemina)",
+        "(arranged as 2 superior and 2 inferior)"
+      ],
+      "aliases": [
+        "tectum"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "posterior"
+    },
+    {
+      "id": "superior-colliculi",
+      "name": "Superior colliculi",
+      "meshes": [
+        "Superior colliculus.l",
+        "Superior colliculus.r"
+      ],
+      "page": 2,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- functions of midbrain:",
+      "bullets": [
+        "(1) superior and inferior colliculi: Mediates visual & auditory reflexes"
+      ],
+      "aliases": [
+        "superior colliculi"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "superior"
+    },
+    {
+      "id": "inferior-colliculi",
+      "name": "Inferior colliculi",
+      "meshes": [
+        "Inferior colliculus.l",
+        "Inferior colliculus.r"
+      ],
+      "page": 2,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Inferior collicular level of midbrain:",
+      "bullets": [],
+      "aliases": [
+        "inferior colliculi"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior"
+    },
+    {
+      "id": "corticospinal",
+      "name": "Corticospinal tract",
+      "meshes": [
+        "Base of peduncle.l",
+        "Base of peduncle.r"
+      ],
+      "page": 3,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- the cerebral crus consists of:",
+      "bullets": [
+        "(1) Corticospinal tract"
+      ],
+      "aliases": [
+        "corticospinal"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "corticobulbar",
+      "name": "Corticobulbar tract",
+      "meshes": [
+        "Base of peduncle.l",
+        "Base of peduncle.r"
+      ],
+      "page": 3,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "(2) Corticobulbar tract",
+      "bullets": [],
+      "aliases": [
+        "corticobulbar"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "frontopontine",
+      "name": "Frontopontine fibers",
+      "meshes": [
+        "Base of peduncle.l",
+        "Base of peduncle.r"
+      ],
+      "page": 3,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "(3) Front pontine fibers: located most medially.",
+      "bullets": [],
+      "aliases": [
+        "frontopontine"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "temporopontine",
+      "name": "Temporopontine fibers",
+      "meshes": [
+        "Base of peduncle.l",
+        "Base of peduncle.r"
+      ],
+      "page": 3,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "(4) Tempro-pontine fibers: located postero-laterally",
+      "bullets": [],
+      "aliases": [
+        "temporopontine"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "mesencephalic-v",
+      "name": "Mesencephalic nucleus of CN V",
+      "meshes": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "page": 3,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Near the cerebral aqueduct:",
+      "bullets": [
+        "(1) Mesencephalic nucleus of the trigeminal nerve."
+      ],
+      "aliases": [
+        "mesencephalic v"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "mlf",
+      "name": "Medial longitudinal fasciculus",
+      "meshes": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "page": 3,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "(2) Medial longitudinal fasciculus",
+      "bullets": [],
+      "aliases": [
+        "mlf"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "spinal-lemniscus",
+      "name": "Spinal lemniscus",
+      "meshes": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "page": 3,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- 4 Lemnisci:",
+      "bullets": [
+        "(1) Spinal"
+      ],
+      "aliases": [
+        "spinal lemniscus"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "lateral-lemniscus",
+      "name": "Lateral lemniscus",
+      "meshes": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "page": 3,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "(2) Lateral",
+      "bullets": [],
+      "aliases": [
+        "lateral lemniscus"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "The source section shows the lateral lemniscus at the inferior collicular level. Auditory pathways have bilateral connections; this diagram is a teaching level map, not a complete auditory pathway.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "medial-lemniscus",
+      "name": "Medial lemniscus",
+      "meshes": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "page": 3,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "(3) Medial",
+      "bullets": [],
+      "aliases": [
+        "medial lemniscus"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "trigeminal-lemniscus",
+      "name": "Trigeminal lemniscus",
+      "meshes": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "page": 3,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "(4) Trigeminal",
+      "bullets": [],
+      "aliases": [
+        "trigeminal lemniscus"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "trochlear-nucleus",
+      "name": "Trochlear nucleus",
+      "meshes": [
+        "Nucleus of trochlear nerve.l",
+        "Nucleus of trochlear nerve.r"
+      ],
+      "page": 3,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "(3) Trochlear nucleus",
+      "bullets": [],
+      "aliases": [
+        "trochlear nucleus"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "section_key": "inferior"
+    },
+    {
+      "id": "scp",
+      "name": "Superior cerebellar peduncle",
+      "meshes": [
+        "Superior cerebellar peduncle.l",
+        "Superior cerebellar peduncle.r"
+      ],
+      "page": 3,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Decussation of: superior cerebellar peduncle",
+      "bullets": [],
+      "aliases": [
+        "scp"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "posterior"
+    },
+    {
+      "id": "scp-crossing",
+      "name": "Decussation of superior cerebellar peduncles",
+      "meshes": [
+        "Midbrain.l",
+        "Midbrain.r"
+      ],
+      "page": 3,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Decussation of: superior cerebellar peduncle",
+      "bullets": [],
+      "aliases": [
+        "scp crossing"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "inferior",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "inferior"
+    },
+    {
+      "id": "red-nucleus",
+      "name": "Red nucleus",
+      "meshes": [
+        "Red nucleus.l",
+        "Red nucleus.r"
+      ],
+      "page": 4,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "Superior collicular level of midbrain:",
+      "bullets": [
+        "- Red nucleus: - important for motor coordination through rubrospinal tract"
+      ],
+      "aliases": [
+        "red nucleus"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "superior",
+      "section_key": "superior"
+    },
+    {
+      "id": "oculomotor-nucleus",
+      "name": "Oculomotor nucleus",
+      "meshes": [
+        "Nucleus of oculomotor nerve.l",
+        "Nucleus of oculomotor nerve.r"
+      ],
+      "page": 4,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Oculomotor nucleus:",
+      "bullets": [],
+      "aliases": [
+        "oculomotor nucleus"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "superior",
+      "section_key": "superior"
+    },
+    {
+      "id": "mcp",
+      "name": "Middle cerebellar peduncle",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 5,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- the pons is connected with cerebellum through the middle cerebellar peduncles",
+      "bullets": [],
+      "aliases": [
+        "mcp"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior",
+      "diagram_only": true,
+      "clarification": "The dashed 3D arrow locates the named parent region, not a separately segmented tract or nucleus. The original lecture section shows the fine internal relationships; open Reference figure to compare."
+    },
+    {
+      "id": "basilar-groove",
+      "name": "Basilar groove",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 5,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- It contains the basilar groove that lodges the basilar artery .",
+      "bullets": [],
+      "aliases": [
+        "basilar groove"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "anterior",
+      "diagram_only": true,
+      "clarification": "The dashed 3D arrow locates the named parent region, not a separately segmented tract or nucleus. The original lecture section shows the fine internal relationships; open Reference figure to compare."
+    },
+    {
+      "id": "pontine-nuclei",
+      "name": "Pontine nuclei",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 5,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Nuclei of basilar part:",
+      "bullets": [
+        "- pontine nuclei"
+      ],
+      "aliases": [
+        "pontine nuclei"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "pons"
+    },
+    {
+      "id": "corticopontine",
+      "name": "Corticopontine tract",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 5,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- corticopontine tract",
+      "bullets": [],
+      "aliases": [
+        "corticopontine"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "pons"
+    },
+    {
+      "id": "pontocerebellar",
+      "name": "Pontocerebellar fibers",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 5,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- pontocerebellar tract",
+      "bullets": [],
+      "aliases": [
+        "pontocerebellar"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "pons"
+    },
+    {
+      "id": "pontine-tegmentum",
+      "name": "Pontine tegmentum",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "(B) The posterior surface: (tegmentum part)",
+      "bullets": [
+        "- it forms the upper part of the floor of the 4th ventricle."
+      ],
+      "aliases": [
+        "pontine tegmentum"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "posterior",
+      "diagram_only": true,
+      "clarification": "The dashed 3D arrow locates the named parent region, not a separately segmented tract or nucleus. The original lecture section shows the fine internal relationships; open Reference figure to compare."
+    },
+    {
+      "id": "sulcus-limitans",
+      "name": "Sulcus limitans",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- limitans sulcus: separates medial eminence from the upper vestibular area .",
+      "bullets": [],
+      "aliases": [
+        "sulcus limitans"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "posterior",
+      "diagram_only": true,
+      "clarification": "The dashed 3D arrow locates the named parent region, not a separately segmented tract or nucleus. The original lecture section shows the fine internal relationships; open Reference figure to compare."
+    },
+    {
+      "id": "facial-colliculus",
+      "name": "Facial colliculus",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Facial colliculus:",
+      "bullets": [
+        "- a prominent elevation represents the lower part of medial eminence",
+        "- it is produced by the abducent nucleus surrounded by the facia nerve fibers."
+      ],
+      "aliases": [
+        "facial colliculus"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "posterior",
+      "diagram_only": true,
+      "clarification": "The dashed 3D arrow locates the named parent region, not a separately segmented tract or nucleus. The original lecture section shows the fine internal relationships; open Reference figure to compare."
+    },
+    {
+      "id": "trigeminal-nuclei",
+      "name": "Trigeminal nuclei",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Nuclei of tegmentum part:",
+      "bullets": [
+        "- Trigeminal nuclei"
+      ],
+      "aliases": [
+        "trigeminal nuclei"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "pons"
+    },
+    {
+      "id": "pontine-sensory",
+      "name": "Sensory tracts of pontine tegmentum",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Tracts of tegmentum part:",
+      "bullets": [
+        "- Sensory:",
+        "- Trigeminal lemniscus",
+        "- Dorsal trigeminal tract",
+        "- Ventral trigeminal tract",
+        "- Anterior trigemino-thalamic tract",
+        "- Central tegmental tract",
+        "- Medial lemniscus",
+        "- Lateral lemniscus"
+      ],
+      "aliases": [
+        "pontine sensory"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "pons"
+    },
+    {
+      "id": "dorsal-trigeminal",
+      "name": "Dorsal trigeminal tract",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Dorsal trigeminal tract",
+      "bullets": [],
+      "aliases": [
+        "dorsal trigeminal"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "pons"
+    },
+    {
+      "id": "ventral-trigeminal",
+      "name": "Ventral trigeminal tract",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Ventral trigeminal tract",
+      "bullets": [],
+      "aliases": [
+        "ventral trigeminal"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "pons"
+    },
+    {
+      "id": "anterior-trigeminothalamic",
+      "name": "Anterior trigeminothalamic tract",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Anterior trigemino-thalamic tract",
+      "bullets": [],
+      "aliases": [
+        "anterior trigeminothalamic"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "pons"
+    },
+    {
+      "id": "central-tegmental",
+      "name": "Central tegmental tract",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Central tegmental tract",
+      "bullets": [],
+      "aliases": [
+        "central tegmental"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "pons"
+    },
+    {
+      "id": "pontine-motor",
+      "name": "Motor tracts of pontine tegmentum",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Motor:",
+      "bullets": [
+        "- Vestibulo-cerebellar tract",
+        "- Medial vestibulospinal tract",
+        "- Lateral vestibulospinal tract",
+        "- Medial longitudinal fasciculus",
+        "- inferior cerebellar tract"
+      ],
+      "aliases": [
+        "pontine motor"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "pons"
+    },
+    {
+      "id": "vestibulocerebellar",
+      "name": "Vestibulocerebellar tract",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Motor:",
+      "bullets": [
+        "- Vestibulo-cerebellar tract"
+      ],
+      "aliases": [
+        "vestibulocerebellar"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "pons"
+    },
+    {
+      "id": "medial-vestibulospinal",
+      "name": "Medial vestibulospinal tract",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Medial vestibulospinal tract",
+      "bullets": [],
+      "aliases": [
+        "medial vestibulospinal"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "pons"
+    },
+    {
+      "id": "lateral-vestibulospinal",
+      "name": "Lateral vestibulospinal tract",
+      "meshes": [
+        "Pons.l",
+        "Pons.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Lateral vestibulospinal tract",
+      "bullets": [],
+      "aliases": [
+        "lateral vestibulospinal"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "pons"
+    },
+    {
+      "id": "icp",
+      "name": "Inferior cerebellar peduncle",
+      "meshes": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "page": 7,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- inferior cerebellar tract",
+      "bullets": [],
+      "aliases": [
+        "icp"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "posterior",
+      "diagram_only": true,
+      "clarification": "The inferior cerebellar peduncle connects the medulla with the cerebellum and contains multiple fiber pathways. The slide later calls an item \"inferior cerebellar tract\"; the plate identifies the peduncle region without inventing a separate tract boundary."
+    },
+    {
+      "id": "posteromedian",
+      "name": "Posteromedian sulcus",
+      "meshes": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "page": 8,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Posteromedian sulcus:",
+      "bullets": [],
+      "aliases": [
+        "posteromedian"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "medulla-posterior",
+      "diagram_only": true,
+      "clarification": "The dashed 3D arrow locates the named parent region, not a separately segmented tract or nucleus. The original lecture section shows the fine internal relationships; open Reference figure to compare."
+    },
+    {
+      "id": "vagal-trigone",
+      "name": "Vagal trigone",
+      "meshes": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "page": 8,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- Vagal trigone: - overlies dorsal nucleus of vagus.",
+      "bullets": [],
+      "aliases": [
+        "vagal trigone"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "medulla-posterior",
+      "diagram_only": true,
+      "clarification": "The dashed 3D arrow locates the named parent region, not a separately segmented tract or nucleus. The original lecture section shows the fine internal relationships; open Reference figure to compare."
+    },
+    {
+      "id": "internal-arcuate",
+      "name": "Internal arcuate fibers · sensory crossing",
+      "meshes": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "page": 9,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "- gracile and cuneate tracts relay in gracile and cuneate nucli",
+      "bullets": [
+        "- then the fibers cross to the opposite side as internal arcuate fibers,",
+        "- then ascend as medial lemniscus"
+      ],
+      "aliases": [
+        "internal arcuate"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "medulla",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "medulla"
+    },
+    {
+      "id": "posterior-spinocerebellar",
+      "name": "Posterior spinocerebellar tract",
+      "meshes": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "page": 9,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "(3) The posterior (or dorsal) spinocerebellar tract:",
+      "bullets": [
+        "carries proprioceptive sensation from the lower limb and trunk."
+      ],
+      "aliases": [
+        "posterior spinocerebellar"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "medulla",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "medulla"
+    },
+    {
+      "id": "cuneocerebellar",
+      "name": "Cuneocerebellar tract",
+      "meshes": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "page": 9,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "(4) The cuneo-cerebellar tract:",
+      "bullets": [
+        "carries proprioceptive sensation from the upper limb"
+      ],
+      "aliases": [
+        "cuneocerebellar"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "medulla",
+      "diagram_only": true,
+      "clarification": "The original medullary section labels the accessory cuneate nucleus. The marker identifies that relay associated with the upper-limb proprioceptive pathway; it is not a separately segmented cuneocerebellar fiber bundle.",
+      "section_key": "medulla"
+    },
+    {
+      "id": "anterior-spinocerebellar",
+      "name": "Anterior spinocerebellar tract",
+      "meshes": [
+        "Medulla oblongata.l",
+        "Medulla oblongata.r"
+      ],
+      "page": 9,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "relation",
+      "text": "(5) The anterior (or ventral) spinocerebellar tract:",
+      "bullets": [
+        "is involved in carrying proprioceptive sensation from the lower limb."
+      ],
+      "aliases": [
+        "anterior spinocerebellar"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "medulla",
+      "diagram_only": true,
+      "clarification": "Shown on a simplified 3D teaching section based on the supplied lecture. Its colored contours and internal subdivisions illustrate topography; they are not a new histological segmentation. Open Reference figure to compare the original source.",
+      "section_key": "medulla"
+    },
+    {
+      "id": "fourth-ventricle",
+      "name": "Fourth ventricle",
+      "meshes": [
+        "Fourth ventricle"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "(B) The posterior surface: (tegmentum part)",
+      "bullets": [
+        "- it forms the upper part of the floor of the 4th ventricle."
+      ],
+      "aliases": [
+        "fourth ventricle"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "posterior"
+    },
+    {
+      "id": "abducens-nucleus",
+      "name": "Abducens nucleus",
+      "meshes": [
+        "Nucleus of abducens nerve.l",
+        "Nucleus of abducens nerve.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Abducent nucleus",
+      "bullets": [],
+      "aliases": [
+        "abducens nucleus"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons"
+    },
+    {
+      "id": "facial-nucleus",
+      "name": "Facial motor nucleus",
+      "meshes": [
+        "Motor nucleus of facial nerve.l",
+        "Motor nucleus of facial nerve.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Facial motor nuclei",
+      "bullets": [],
+      "aliases": [
+        "facial nucleus"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons"
+    },
+    {
+      "id": "vestibular-nuclei",
+      "name": "Vestibular nuclei",
+      "meshes": [
+        "Vestibular nuclei.l",
+        "Vestibular nuclei.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Vestibular nuclei",
+      "bullets": [],
+      "aliases": [
+        "vestibular nuclei"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons"
+    },
+    {
+      "id": "cochlear-nuclei",
+      "name": "Cochlear nuclei",
+      "meshes": [
+        "Anterior cochlear nucleus.l",
+        "Anterior cochlear nucleus.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Cochlear nuclei",
+      "bullets": [],
+      "aliases": [
+        "cochlear nuclei"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons"
+    },
+    {
+      "id": "superior-salivatory",
+      "name": "Superior salivatory nucleus",
+      "meshes": [
+        "Superior salivatory nucleus.l",
+        "Superior salivatory nucleus.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Superior salivary nucleus",
+      "bullets": [],
+      "aliases": [
+        "superior salivatory"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons"
+    },
+    {
+      "id": "inferior-salivatory",
+      "name": "Inferior salivatory nucleus",
+      "meshes": [
+        "Inferior salivatory nucleus.l",
+        "Inferior salivatory nucleus.r"
+      ],
+      "page": 6,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Inferior salivary nucleus",
+      "bullets": [],
+      "aliases": [
+        "inferior salivatory"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "pons",
+      "clarification": "Source correction: the slide lists this under pontine nuclei, but the inferior salivatory nucleus is associated with CN IX in the rostral medulla. The original, correctly located medullary mesh is shown; it is not moved into the pons."
+    },
+    {
+      "id": "pyramid",
+      "name": "Pyramid",
+      "meshes": [
+        "Pyramid of medulla oblongata.l",
+        "Pyramid of medulla oblongata.r"
+      ],
+      "page": 7,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Pyramid: - it is formed by the corticospinal fibers before its decussation",
+      "bullets": [],
+      "aliases": [
+        "pyramid"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "medulla-anterior"
+    },
+    {
+      "id": "olive",
+      "name": "Olive",
+      "meshes": [
+        "Olive.l",
+        "Olive.r"
+      ],
+      "page": 7,
+      "view": "anterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Olive: - it is formed by the olivary nuclei mainly the inferior olivary nucleus",
+      "bullets": [],
+      "aliases": [
+        "olive"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "medulla-anterior"
+    },
+    {
+      "id": "gracile",
+      "name": "Gracile fasciculus",
+      "meshes": [
+        "Gracile fasciculus"
+      ],
+      "page": 8,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Gracile fasciculus: - its upper end expands to form gracile tubercle (nucleus)",
+      "bullets": [],
+      "aliases": [
+        "gracile"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "medulla-posterior",
+      "clarification": "The source column mesh extends caudally in the spinal cord. Its upper medullary relationship and tubercle are shown on the original posterior plate; the tubercle is not a separately segmented nucleus in this export."
+    },
+    {
+      "id": "cuneate",
+      "name": "Cuneate fasciculus",
+      "meshes": [
+        "Cuneate fasciculus"
+      ],
+      "page": 8,
+      "view": "posterior",
+      "mode": "stem",
+      "kind": "anatomical",
+      "text": "- Cuneate fasciculus: - its upper end expands to form cuneate tubercle (nucleus)",
+      "bullets": [],
+      "aliases": [
+        "cuneate"
+      ],
+      "references": [],
+      "side": "both",
+      "plate": "medulla-posterior",
+      "clarification": "The fasciculus is present in the source model; the cuneate tubercle/nucleus relationship is shown on the original posterior and sectional plates."
+    }
+  ],
+  "quiz": [
+    {
+      "id": "bs-q1",
+      "answer": "pyramid",
+      "prompt": "Identify the highlighted medullary elevation.",
+      "choices": [
+        "pyramid",
+        "olive",
+        "pons",
+        "inferior-colliculi"
+      ],
+      "explanation": "The pyramid is formed by descending corticospinal fibers before their pyramidal decussation.",
+      "pick_prompt": "Tap the medullary elevation formed by descending corticospinal fibers."
+    },
+    {
+      "id": "bs-q2",
+      "answer": "olive",
+      "prompt": "Which highlighted structure is produced by the inferior olivary nuclear complex?",
+      "choices": [
+        "olive",
+        "pyramid",
+        "superior-colliculi",
+        "crus"
+      ],
+      "explanation": "The olive lies lateral to the pyramid. CN XII emerges between them.",
+      "pick_prompt": "Tap the medullary elevation lateral to the pyramid."
+    },
+    {
+      "id": "bs-q3",
+      "answer": "cn12",
+      "prompt": "Which nerve emerges between the pyramid and olive?",
+      "choices": [
+        "cn12",
+        "cn9",
+        "cn10",
+        "cn5"
+      ],
+      "explanation": "Hypoglossal rootlets emerge in the preolivary sulcus. IX, X and cranial XI emerge posterior to the olive.",
+      "pick_prompt": "Tap the cranial nerve emerging between the pyramid and olive."
+    },
+    {
+      "id": "bs-q4",
+      "answer": "cn5",
+      "prompt": "Which nerve emerges from the mid-pons near the middle cerebellar peduncle?",
+      "choices": [
+        "cn5",
+        "cn3",
+        "cn6",
+        "cn12"
+      ],
+      "explanation": "The trigeminal nerve exits from the lateral mid-pons; VI, VII and VIII emerge at the pontomedullary junction.",
+      "pick_prompt": "Tap the cranial nerve emerging from the lateral middle part of the pons."
+    },
+    {
+      "id": "bs-q5",
+      "answer": "cn4",
+      "prompt": "Which cranial nerve has a dorsal brainstem exit?",
+      "choices": [
+        "cn4",
+        "cn3",
+        "cn7",
+        "cn10"
+      ],
+      "explanation": "The trochlear nerve emerges dorsally below the inferior colliculus and wraps around the midbrain.",
+      "pick_prompt": "Tap the cranial nerve emerging dorsally below the inferior colliculus."
+    },
+    {
+      "id": "bs-q6",
+      "answer": "inferior-colliculi",
+      "prompt": "Identify the caudal pair of tectal elevations.",
+      "choices": [
+        "inferior-colliculi",
+        "superior-colliculi",
+        "red-nucleus",
+        "pyramid"
+      ],
+      "explanation": "Inferior colliculi are associated with auditory reflex pathways; superior colliculi with visual orienting reflexes.",
+      "pick_prompt": "Tap the tectal elevations related to auditory reflexes."
+    },
+    {
+      "id": "bs-q7",
+      "answer": "superior-colliculi",
+      "prompt": "Identify the rostral pair of tectal elevations.",
+      "choices": [
+        "superior-colliculi",
+        "inferior-colliculi",
+        "olive",
+        "pons"
+      ],
+      "explanation": "These are the superior colliculi of the tectum, involved in visual orienting reflexes.",
+      "pick_prompt": "Tap the tectal elevations related to visual orienting reflexes."
+    },
+    {
+      "id": "bs-q8",
+      "answer": "red-nucleus",
+      "prompt": "Which nucleus characterizes the superior collicular midbrain level?",
+      "choices": [
+        "red-nucleus",
+        "trochlear-nucleus",
+        "facial-nucleus",
+        "inferior-salivatory"
+      ],
+      "explanation": "The red nucleus is seen at the superior collicular level and is related to motor coordination."
+    },
+    {
+      "id": "bs-q9",
+      "answer": "aqueduct",
+      "prompt": "Identify the narrow CSF channel through the midbrain.",
+      "choices": [
+        "aqueduct",
+        "fourth-ventricle",
+        "crus",
+        "scp"
+      ],
+      "explanation": "The cerebral aqueduct connects the third and fourth ventricles."
+    },
+    {
+      "id": "bs-q10",
+      "answer": "cn6",
+      "prompt": "Which highlighted nerve exits near the midline at the pontomedullary junction?",
+      "choices": [
+        "cn6",
+        "cn5",
+        "cn3",
+        "cn12"
+      ],
+      "explanation": "The abducens nerve exits medially; VII and VIII emerge more laterally at this junction."
+    },
+    {
+      "id": "bs-q11",
+      "answer": "blood-supply",
+      "prompt": "Identify the arterial system supplying the brainstem.",
+      "choices": [
+        "blood-supply",
+        "cn9",
+        "crus",
+        "pyramid"
+      ],
+      "explanation": "The vertebral arteries unite to form the basilar artery, which runs along the ventral pons."
+    },
+    {
+      "id": "bs-q12",
+      "answer": "trochlear-nucleus",
+      "prompt": "Which nucleus is associated with the inferior collicular level?",
+      "choices": [
+        "trochlear-nucleus",
+        "oculomotor-nucleus",
+        "red-nucleus",
+        "abducens-nucleus"
+      ],
+      "explanation": "The trochlear nucleus is at the inferior collicular level; the oculomotor nucleus is at the superior level."
+    }
+  ],
+  "references": [
+    {
+      "id": "lecture",
+      "name": "L2 - Brain Stem · Dr Ibrahim Amr",
+      "url": null,
+      "role": "All 9 supplied PDF pages, printed pages 12–20. Literal source text and the original lecture illustrations; full highlighted slides remain available."
+    },
+    {
+      "id": "duke",
+      "name": "Duke Neurosciences · Surface and sectional brainstem anatomy",
+      "url": "https://brain.oit.duke.edu/lab03/lab03.html",
+      "role": "External landmarks, cranial nerve exits, and the relationship between surface anatomy and serial cross-sections. The teaching progression follows this surface-to-section approach."
+    },
+    {
+      "id": "tau",
+      "name": "Tel Aviv University · Brainstem dissection guide",
+      "url": "https://www.neuroanatomy.sites.tau.ac.il/brainstem",
+      "role": "Anterior/posterior orientation and the inferior/superior collicular, pontine and medullary section levels. External images are not copied."
+    },
+    {
+      "id": "ut-ix",
+      "name": "UTHealth · CN IX and inferior salivatory nucleus",
+      "url": "https://nba.uth.tmc.edu/neuroanatomy/L9/Lab09p12_index.html",
+      "role": "Checks the inferior salivatory nucleus in the medulla; the lecture’s pontine list is retained with a separate correction."
+    },
+    {
+      "id": "duke-sections",
+      "name": "Duke · Internal brainstem and serial levels",
+      "url": "https://brain.oit.duke.edu/lab04/lab05.html",
+      "role": "Cross-check of section levels and nucleus/tract relationships. The interactive slab contours are simplified teaching drawings based on the supplied lecture, not histological segmentations."
+    },
+    {
+      "id": "fipat",
+      "name": "FIPAT · Terminologia Neuroanatomica",
+      "url": "https://cdn.dal.ca/content/dam/dalhousie/pdf/library/FIPAT/TNA/FIPAT-TNA-Ch1.pdf",
+      "role": "Terminology 1322: anterior/ventral trigeminothalamic tract and trigeminal lemniscus refer to the same pathway; they are not three independent parcels."
+    }
+  ],
+  "model": "/models/brainstem.glb",
+  "schema_version": 4,
+  "tour_revision": "brainstem-literal-1",
+  "module": "brainstem",
+  "default_hemisphere": "both"
+}

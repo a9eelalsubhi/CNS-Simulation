@@ -1,0 +1,46 @@
+/* One complete lecture point per Next, alongside the on-surface study map. */
+#annotations{z-index:7}#pinLines{z-index:5}
+#pinLines{pointer-events:none}#pinLines>line,#pinLines>circle{filter:drop-shadow(0 1px 2px #09060ce6)}
+.regional-context-note{display:block;margin-top:8px;font-size:10px;line-height:1.5;color:var(--pin-color)}.regional-context-note[hidden]{display:none}
+.guided-explanation{background:#1c1728f5;border:1px solid var(--pin-color);border-top:3px solid var(--pin-color);border-radius:10px;padding:17px 19px;pointer-events:auto;overflow:auto;scrollbar-width:thin;scrollbar-color:var(--pin-color) transparent;box-shadow:0 9px 30px #08040d60}
+.guided-explanation .callout-source{display:block;font-size:9px;letter-spacing:.08em;color:#c6a9d4;margin-bottom:9px;line-height:1.6}
+.guided-explanation>strong{display:block;font-size:16px;font-weight:650;color:var(--pin-color);line-height:1.4}
+.guided-explanation p{display:block!important;font-size:12px;line-height:1.7;color:#e5d7ed;margin:10px 0}
+.guided-explanation ul{padding-left:17px;margin:10px 0 0;color:#d3bfdc;font-size:12px;line-height:1.7}
+.guided-explanation li+li{margin-top:7px}.guided-explanation details{border-top:1px solid #67446e;margin-top:13px;padding-top:10px;font-size:11px;color:#cbb2d7}.guided-explanation summary{cursor:pointer;color:#d7afd2}.guided-explanation details p{font-size:11px}
+.guided-explanation.context-callout{padding:10px 14px}.guided-explanation.context-callout>strong{font-size:14px}.guided-explanation.context-callout p{font-size:11px;line-height:1.6;margin:7px 0 0}.guided-explanation.context-callout .callout-source{font-size:8px;margin-bottom:5px}
+.viewport[data-callout-layout=stacked]{height:calc(100dvh - var(--atlas-header-height,100px));min-height:0}
+.viewport[data-callout-layout=stacked]:fullscreen{min-height:100dvh}
+.with-explanations .tour-rail>p{display:none}.with-explanations .tour-rail:has(#lessonNotes[hidden]){max-height:22%}
+.with-explanations .tour-rail h2{font-size:15px!important}
+.tour-flow{font-size:10px;color:#c8a8d6;line-height:1.6;margin-top:7px}
+.explanation-tabs{position:absolute;display:flex;gap:5px;pointer-events:auto;overflow:auto;scrollbar-width:none;height:26px}
+.explanation-tabs button{flex:0 0 auto;max-width:160px;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;font-size:9px!important;min-height:24px;padding:3px 8px!important;border-color:var(--pin-color)!important;color:var(--pin-color)!important;background:#211b2c!important}
+.explanation-tabs button[aria-pressed=true]{box-shadow:inset 0 -2px 0 var(--pin-color)}
+.source-preview{margin:0 0 22px;border:1px solid #644765;border-radius:8px;overflow:hidden;background:#22192c}
+.source-preview>button{display:block;width:100%;padding:9px!important;font-size:10px!important;border:0;border-radius:0;text-align:left;background:transparent!important}
+.source-preview img{display:block;width:100%;height:155px;object-fit:cover;object-position:top;border-radius:4px;margin-top:8px}
+.source-preview span{color:#d8bce6}.source-preview small{display:block;color:#a990bb;font-size:9px;margin-top:6px}
+/* A narrow desktop side panel is as constrained as a phone. Do not use
+   a giant mobile canvas that pushes the lesson and Next below the fold. */
+.viewport[data-callout-layout=stacked] .view-heading{top:10px;left:14px;max-width:calc(100% - 28px)}
+.viewport[data-callout-layout=stacked] .view-heading .eyebrow{font-size:7px;letter-spacing:.1em}
+.viewport[data-callout-layout=stacked] .view-heading h2{font-size:19px;line-height:1.2;margin:7px 0;letter-spacing:-.025em}
+.viewport[data-callout-layout=stacked] .view-heading>p,.viewport[data-callout-layout=stacked] .map-caption,.viewport[data-callout-layout=stacked] .legend{display:none}
+.viewport[data-callout-layout=stacked] .camera-hud{top:72px;left:14px;right:14px;max-width:none;width:auto;flex-wrap:nowrap;justify-content:flex-start;overflow:auto;scrollbar-width:none;gap:4px}
+.viewport[data-callout-layout=stacked] .camera-hud button{flex-shrink:0;min-height:27px;font-size:9px;padding:5px 8px}
+.viewport[data-callout-layout=stacked] .tour-rail{bottom:9px;padding:8px 12px;width:calc(100% - 24px);max-height:36%}
+.viewport[data-callout-layout=stacked] .tour-rail h2,.viewport[data-callout-layout=stacked] .tour-flow{display:none}
+.viewport[data-callout-layout=stacked] .tour-navigation{margin-top:7px;gap:10px}
+.viewport[data-callout-layout=stacked] .rail-meta{font-size:8px}
+.viewport[data-callout-layout=stacked] #sourceBadge{display:none}
+.viewport[data-callout-layout=stacked] .rail-meta>button{font-size:8px;min-height:19px}
+.viewport[data-callout-layout=stacked] .tour-navigation button{min-height:29px;font-size:10px;padding:5px 8px}
+.viewport[data-callout-layout=stacked] .orbit-lock{top:109px;right:12px;min-height:24px;font-size:8px;padding:4px 7px}
+.viewport[data-callout-layout=stacked] .gesture-hint{display:none}
+.viewport[data-callout-layout=stacked] .trace-control{top:110px;left:14px;font-size:8px;padding:6px;max-width:190px}
+.viewport[data-callout-layout=stacked] .guided-explanation{padding:10px 13px;border-radius:8px}
+.viewport[data-callout-layout=stacked] .guided-explanation>strong{font-size:13px}
+.viewport[data-callout-layout=stacked] .guided-explanation p,.viewport[data-callout-layout=stacked] .guided-explanation ul{font-size:11px;line-height:1.55;margin-top:7px}
+.viewport[data-callout-layout=stacked] .guided-explanation .callout-source{font-size:7px;margin-bottom:5px}
+@media(max-height:650px) and (max-width:700px){.topbar{min-height:99px;padding:8px 12px;gap:5px}.brand small{display:none}.brand-symbol{padding:7px 5px}.identity>div{height:27px}.identity img,.identity img.aseel,.identity .med45-mark{height:27px;width:65px}.identity>span{font-size:7px}.header-actions button{min-height:28px;font-size:8px}.lecture-switch select{min-height:29px;padding:5px;font-size:9px}}

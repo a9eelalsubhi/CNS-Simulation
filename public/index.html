@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CNS · Aseel & MED45 Atlas</title>
+<meta name="description" content="Explore the cerebral cortex, brainstem and all 12 cranial nerves with source-ordered 3D lecture tours, color-matched arrows, human function illustrations, original slides and full-body skeletal context.">
+<meta name="theme-color" content="#211526">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='12' fill='%23211526'/%3E%3Ctext x='20' y='25' text-anchor='middle' font-family='sans-serif' font-size='13' font-weight='700' fill='%23e5b5d1'%3ECNS%3C/text%3E%3C/svg%3E">
+<script type="importmap">{"imports":{"three":"/vendor/three.module.js"}}</script>
+<link rel="stylesheet" href="/style.css?v=20261016-map2">
+<link rel="stylesheet" href="/cns-theme.css?v=20261016-dark3">
+<link rel="stylesheet" href="/guided-explanations.css?v=20261024-routes2">
+<link rel="stylesheet" href="/brainstem.css?v=20261024-routes2">
+<script defer src="/analytics-client.js"></script>
+<link rel="stylesheet" href="/cranial.css?v=20261028-reference1">
+</head>
+<body class="theme-cns">
+<header class="topbar">
+  <a class="brand" href="/?lecture=1" aria-label="CNS Atlas home"><span class="brand-symbol">CNS</span><span>CNS <b>/ ATLAS</b><small>Neuroanatomy · learn it in place</small></span></a>
+  <div class="identity"><div><span class="med45-mark"><img src="/branding/med45uqu.png" alt="MED45UQU" width="128" height="64"></span><img class="aseel" src="/branding/aseel.png" alt="Aseel" width="128" height="64"></div><span>made by <strong>Aseel Alsubhi</strong></span></div>
+  <label class="lecture-switch">Module / Lecture<select id="lectureSelect" aria-label="Lecture"><optgroup label="Central Nervous System"><option value="1">Lecture 1 · Cerebral hemispheres</option></optgroup></select></label>
+  <div class="header-actions"><button id="figures" class="outline">Lecture figures</button><button id="quizToggle" aria-pressed="false">Enter Quiz Mode</button><button id="restart" class="primary">↺ Start tour</button></div>
+</header>
+<main class="workspace">
+  <aside id="sidebar" class="sidebar">
+    <div class="eyebrow">EXPLORE NEUROANATOMY</div><h1>Lecture 1</h1><p class="sidebar-intro">Cerebral hemispheres<br>Surfaces · function · connections</p>
+    <div class="search-wrap"><label for="search">Find a structure</label><input id="search" type="search" placeholder="Gyrus, sulcus, function or BA…" autocomplete="off" role="combobox" aria-autocomplete="list" aria-controls="searchResults" aria-expanded="false"><ul id="searchResults" role="listbox" hidden></ul><p id="searchStatus" class="sr-only" role="status"></p></div>
+    <div class="source-preview"><button id="openSlidePreview"><span id="currentSlideLabel">Reference slides</span><img id="currentSlidePreview" alt="Reference slide"><small>New reference slides · enlarge ↗</small></button><div class="reference-nav"><button id="referencePrevious" aria-label="Previous reference slide">←</button><span id="referenceCount"></span><button id="referenceNext" aria-label="Next reference slide">→</button></div></div>
+    <nav id="chapters" aria-label="Tour chapters"></nav>
+    <section class="display-panel"><div class="section-head">Anatomy display <span>OPAQUE BY DEFAULT</span></div>
+      <label class="display-choice">Rendering<select id="presentation"><option value="map">Illustrated 3D · study map</option><option value="shaded">Shaded 3D anatomy</option></select></label>
+      <label class="display-choice">Hemisphere<select id="hemisphere"><option value="left">Left</option><option value="right">Right</option><option value="both">Both hemispheres</option></select></label>
+      <label class="display-choice">Color map<select id="palette"><option value="lobes">Lobes · solid colors</option><option value="gyri">Individual gyri</option></select></label>
+      <label class="switch-row"><span>Defined borders</span><input id="borders" type="checkbox" role="switch" checked></label>
+      <label class="switch-row"><span>Surface names</span><input id="labels" type="checkbox" role="switch" checked></label>
+      <label class="display-choice">Label detail<select id="labelScope"><option value="focus">Current lesson · focused</option><option value="all">Full study map</option></select></label>
+      <label class="switch-row"><span>Explanation arrows</span><input id="explanations" type="checkbox" role="switch" checked></label>
+      <div id="layers" class="layers"></div>
+      <section class="body-context-controls"><label class="switch-row"><span>Human skeleton · body context</span><input id="bodyContextToggle" type="checkbox" role="switch" checked></label><label class="opacity-label" for="bodyOpacity">Background skeleton <output id="bodyOpacityValue">6%</output></label><input id="bodyOpacity" type="range" min="0" max="35" value="6" step="1" aria-label="Background skeleton opacity"></section>
+      <button id="isolate" class="outline full-width" aria-pressed="false">Isolate selected structure</button>
+    </section>
+    <button id="sources" class="sources-link">Sources & anatomical accuracy ↗</button>
+  </aside>
+  <section id="viewport" class="viewport" aria-label="Interactive CNS anatomy viewer">
+    <div class="view-heading"><span class="eyebrow" id="chapterLabel">ANATOMY / CEREBRAL HEMISPHERES</span><h2 id="sceneTitle">Five lobes. Three surfaces.</h2><p id="sceneSubtitle">Actual anatomical parcels · defined color boundaries</p><div class="map-caption"><span class="map-dot"></span><strong>ILLUSTRATED 3D</strong><label>Names<select id="mapNames" aria-label="Names on the study map"><option value="both">Gyri + sulci</option><option value="gyri">Gyri</option><option value="sulci">Sulci</option></select></label><span>Click a name, region or groove</span></div></div>
+    <div id="canvasHost"></div>
+<nav id="cranialTools" class="cranial-tools" aria-label="Cranial nerve study views" hidden><button id="cnAnatomy" aria-pressed="true">Full nerve route · 3D</button><button id="cnFocusPoint" aria-pressed="false">Focus explanation</button><button id="cnRelationship" hidden>Relationship map · optional</button><button id="cnFunctionOpen">Function picture ↗</button><button id="cnMemoryOpen">Memory maps ↗</button><span id="cranialPrecision"></span></nav>
+<aside id="cnFunctionPanel" class="cranial-function" aria-label="Illustrated nerve function"><h3 id="cnFunctionTitle"></h3><div id="cnFunctionPicture"></div><p id="cnFunctionCaption"></p><small>Function illustration · not an anatomical section</small><details class="cn-route-details"><summary>3D route & model detail</summary><p id="cnRouteNote"></p></details></aside>
+    <section id="brainstemPlate" class="brainstem-plate" hidden aria-label="Original brainstem diagram"><img alt="Original brainstem lecture illustration"><svg aria-hidden="true"></svg><span data-plate-caption></span><button data-enlarge-plate aria-label="Enlarge this brainstem diagram">Enlarge ↗</button></section>
+    <nav id="stemTools" class="stem-tools" aria-label="Brainstem study views" hidden><button id="show3D" aria-pressed="true">3D anatomy</button><button id="sectionFace" hidden>Cross-section 3D</button><button id="sectionTilt" hidden>Tilt section ↗</button><select id="plateSelect" aria-label="Brainstem 3D focus"></select><button id="compareLevels">Compare levels in 3D ⇄</button><button id="showDiagram">Reference figure ↗</button></nav>
+    <aside id="bodyLocator" class="body-locator" aria-label="Location within the human skeleton"><span>IN THE BODY</span><div class="body-inset" aria-hidden="true"></div><button id="wholeBody" aria-pressed="false">↗ Whole body</button></aside>
+    <svg id="surfaceMap" aria-label="Names on the anatomical surface"></svg>
+    <nav class="camera-hud" aria-label="Anatomical views"><button id="resetView">Reset</button><button data-view="lateral">Lateral</button><button data-view="medial">Medial</button><button data-view="superior">Superior</button><button data-view="inferior">Inferior</button><button data-view="anterior">Anterior</button><button data-view="posterior">Posterior</button></nav>
+    <div id="legend" class="legend tour-orientation" aria-label="Brain region colors"></div>
+    <div class="orientation-badge" id="orientationBadge">LEFT LATERAL · A anterior / P posterior</div>
+    <button id="orbitLock" class="orbit-lock" aria-pressed="true">🔒 Scroll page · unlock 3D</button>
+    <div id="gestureHint" class="gesture-hint">Drag to rotate · pinch or scroll to zoom <button id="dismissHint" aria-label="Dismiss gesture hint">×</button></div>
+    <div id="loading" class="loading" role="status"><span class="loader"></span><strong>Preparing your CNS atlas</strong><span>Loading original brain anatomy…</span></div>
+    <svg id="pinLines" aria-hidden="true"></svg><div id="annotations"></div>
+    <div class="view-tools"><button id="zoomIn" aria-label="Zoom in">+</button><button id="zoomOut" aria-label="Zoom out">−</button><button id="fullscreen" aria-label="Full screen">⛶</button></div>
+    <section id="quizPanel" class="quiz-panel" hidden aria-label="Active recall"><div class="quiz-meta"><span id="quizCounter"></span><button id="exitQuiz">Exit quiz ×</button></div><h2 id="quizPrompt"></h2><p id="quizInstruction"></p><div id="quizOptions"></div><p id="quizFeedback" role="status"></p><button id="nextQuestion" class="primary" hidden>Next question →</button></section>
+    <section id="lectureRail" class="tour-rail" aria-label="Current lecture point">
+      <div class="rail-meta"><span id="sourceBadge">Lecture 1 · original source</span><span id="accuracyBadge" hidden>Regional locator</span><button id="toggleNotes" aria-expanded="false" aria-controls="lessonNotes">Lecture notes +</button><button id="openCurrentFigure">Original figure ↗</button></div>
+      <div class="tour-flow" id="tourFlow">Follow the original lecture from top to bottom</div><h2 id="pointTitle">Learn the brain in place</h2><p id="pointText"></p><div id="lessonNotes" hidden><ul id="pointBullets"></ul>
+      <details id="clarification" hidden><summary>Reference clarification</summary><p></p></details></div>
+      <div id="explorerDirectory" hidden></div>
+      <div class="tour-navigation"><button id="previous" aria-label="Previous point">← Previous</button><div class="progress"><span id="stepCount"></span><progress id="tourProgress" max="1" value="1"></progress></div><button id="next" class="primary" aria-label="Next point">Next →</button></div>
+      <div id="pinNavigation" class="pin-navigation" hidden><span id="pinCount"></span><button id="nextPin">Next label →</button></div>
+    </section>
+    <div id="traceControl" class="trace-control search-detail" hidden><span>Connection guide · schematic route</span><button id="tracePlay" aria-pressed="false">▶ Trace connection</button></div>
+  </section>
+</main>
+<dialog id="figuresDialog" class="figure-dialog"><div class="dialog-head"><strong>Original lecture figures</strong><button data-close aria-label="Close lecture figures">×</button></div><div class="figure-controls"><label>Slide<select id="figurePage" aria-label="Lecture figure page"></select></label><span id="figureCaption"></span></div><img id="lectureImage" alt="Original Functional areas of cerebral cortex slide"></dialog>
+<dialog id="referenceDialog" class="figure-dialog"><div class="dialog-head"><strong>Reference slides</strong><button data-close aria-label="Close reference slides">×</button></div><div class="figure-controls"><button id="referenceDialogPrevious" aria-label="Previous reference slide">←</button><label>Page <select id="referencePage" aria-label="Reference slide page"></select></label><button id="referenceDialogNext" aria-label="Next reference slide">→</button></div><img id="referenceImage" alt="Reference slide"></dialog>
+<dialog id="sourcesDialog" class="sources-dialog"><div class="dialog-head"><strong>Sources & anatomical accuracy</strong><button data-close aria-label="Close sources">×</button></div><div class="dialog-content"><h2>Lecture first. Anatomy checked.</h2><p id="sourceDescription"></p><h3>What the boundaries mean</h3><p>Solid fills follow original anatomical parcels. Sulcal lines trace the source ribbons on the same hemisphere. Brainstem surfaces and available nuclei retain their original geometry and coordinates. Fine nuclei or tracts without independent meshes are identified on the supplied lecture diagram, with an explicit parent-region note in 3D. Diagram markers identify locations; they do not claim new segmentation.</p><p>A named Brodmann area is not the same thing as an entire gyrus. Where no functional segmentation exists, the scene says <b>Regional locator</b>. Connection guides show relationships, not tractography. The full skeleton uses the same source subject and coordinates as the brain; opacity and the whole-body locator provide spatial context. Structure-specific clarifications and original pages remain available.</p><h3>Medical references</h3><div id="referenceList"></div><h3>Model and software credits</h3><p>Original nervous, vascular and skeletal anatomy: BodyParts3D / DBCLS, Z-Anatomy and the Anatria3D web export. Source coordinates and compressed surface geometry are preserved. Models remain <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">CC BY-SA 4.0</a>.</p><p><a href="/models/ATTRIBUTION.txt" target="_blank">Detailed model attribution</a> · Three.js under its MIT license. Branding: MED45UQU / Aseel Alsubhi.</p><p>This is a learning atlas, not a patient-specific clinical localization system.</p></div></dialog>
+<div id="toast" role="status" hidden></div>
+<script type="module" src="/app.js?v=20261028-anchors3"></script>
+<dialog id="cnFunctionDialog" class="cranial-dialog"><div class="dialog-head"><strong>Nerve function · illustration</strong><button data-close aria-label="Close function picture">×</button></div><div id="cnFunctionDialogContent"></div></dialog>
+<dialog id="cnMemoryDialog" class="cranial-memory"><div class="dialog-head"><strong>Supplied cranial nerve memory maps</strong><button data-close aria-label="Close memory maps">×</button></div><nav aria-label="Memory map pages"><button data-memory="1">Types</button><button data-memory="2">Origin zones</button><button data-memory="3">Skull exits</button><button data-memory="4">Target organ</button></nav><img id="cnMemoryImage" alt="Supplied cranial nerve memory map"></dialog>
+</body></html>

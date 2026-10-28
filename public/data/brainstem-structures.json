@@ -1,0 +1,2057 @@
+{
+  "groups": {
+    "frontal": [
+      "Precentral gyrus",
+      "Superior frontal gyrus",
+      "Middle frontal gyrus",
+      "Opercular part of inferior frontal gyrus",
+      "Triangular part of inferior frontal gyrus",
+      "Orbital part of  inferior frontal gyrus",
+      "Orbital gyri",
+      "Orbital gyri (Frontomarginal gyrus and sulcus*)",
+      "Straight gyrus (Gyrus rectus)",
+      "Transverse frontopolar gyrus and sulcus*"
+    ],
+    "parietal": [
+      "Postcentral gyrus",
+      "Superior parietal lobule",
+      "Supramarginal gyrus",
+      "Angular gyrus",
+      "Precuneus"
+    ],
+    "temporal": [
+      "Superior temporal gyrus (Lateral part)",
+      "Middle temporal gyrus",
+      "Inferior temporal gyrus",
+      "Temporal plane",
+      "Temporal pole",
+      "Transverse temporal gyri",
+      "Lateral occipitotemporal gyrus",
+      "Medial occipitotemporal gyrus (Parahippocampal*)"
+    ],
+    "occipital": [
+      "Superior occipital gyri",
+      "Lateral occipital gyrus (Middle occipital gyrus*)",
+      "Inferior occipital gyrus and sulcus*",
+      "Occipital pole",
+      "Cuneus",
+      "Lingual gyrus"
+    ],
+    "opercular": [
+      "Insula (Subcentral gyrus and ant. and post. sulci*)"
+    ],
+    "limbic": [
+      "Cingulate gyrus (Posteroventral part*)",
+      "Cingulate gyrus and sulcus (Middle anterior part)",
+      "Cingulate gyrus and sulcus (Middle posterior part)",
+      "Cingulate gyrus and sulcus (Posterior dorsal part)"
+    ],
+    "paracentral": [
+      "Paracentral gyrus and sulcus*"
+    ],
+    "sulci": [
+      "Central sulcus",
+      "Lat_Fis-ant-Horizont",
+      "Lat_Fis-ant-Vertical",
+      "Lat_Fis-post",
+      "Precentral sulcus (inferior part)*",
+      "Precentral sulcus (Superior part)*",
+      "Postcentral sulcus",
+      "Superior frontal sulcus",
+      "Inferior frontal sulcus",
+      "Intraparietal sulcus",
+      "Parieto-occipital sulcus",
+      "Superior temporal sulcus",
+      "Inferior temporal sulcus",
+      "Lunate sulcus",
+      "Transverse occipital sulcus",
+      "Anterior occipital sulcus*",
+      "Calcarine sulcus",
+      "Cingulate sulcus (Marginal part*)",
+      "Subparietal sulcus",
+      "Circular sulcus of insula",
+      "Olfactory sulcus",
+      "Orbital sulci (H-shaped orbital sulci*)",
+      "Orbital sulci (Lateral Orbital sulcus*)",
+      "Collateral sulcus",
+      "Occipitotemporal sulcus (Lateral part*)",
+      " Posterior transverse collateral sulcus",
+      "Sulcus interm_prim-Jensen"
+    ],
+    "deep": [
+      "White matter of telencephalon",
+      "Corpus callosum",
+      "Anterior commissure",
+      "Posterior commissure",
+      "Hippocampal commissure",
+      "Fornix",
+      "Thalamus",
+      "Caudate nucleus",
+      "Lentiform nucleus",
+      "Hypothalamus",
+      "Hippocampus",
+      "Habenula",
+      "Septum pellucidum"
+    ],
+    "brainstem": [
+      "Midbrain",
+      "Pons",
+      "Medulla oblongata"
+    ],
+    "cerebellum": [
+      "Anterior quadrangular lobule",
+      "Posterior quadrangular lobule",
+      "Superior semilunar lobule",
+      "Inferior semilunar lobule",
+      "Gracile lobule",
+      "Biventral lobule",
+      "Tonsil of cerebellum",
+      "Flocculus",
+      "Peduncle of flocculus",
+      "Lingula of cerebellum",
+      "Central lobule",
+      "Wing of central lobule",
+      "Culmen",
+      "Declive",
+      "Folium of vermis",
+      "Tuber of vermis",
+      "Pyramis of vermis",
+      "Uvula of vermis",
+      "Nodule of vermis"
+    ],
+    "cord": [
+      "White matter of spinal cord",
+      "Anterior horn of spinal cord",
+      "Posterior horn of spinal cord",
+      "Intermediolateral nucleus",
+      "Intermediomedial nucleus"
+    ],
+    "peripheral": [
+      "Spinal ganglion",
+      "Anterior root of spinal nerve",
+      "Posterior root of spinal nerve",
+      "Trigeminal nerve (V)",
+      "Oculomotor nerve (III)",
+      "Optic nerve (II)"
+    ],
+    "stem-surface": [
+      "Base of peduncle",
+      "Interpeduncular fossa",
+      "Superior colliculus",
+      "Inferior colliculus",
+      "Olive",
+      "Pyramid of medulla oblongata",
+      "Superior cerebellar peduncle"
+    ],
+    "stem-internal": [
+      "Red nucleus",
+      "Nucleus of oculomotor nerve",
+      "Accessory nucleus of oculomotor nerve",
+      "Nucleus of trochlear nerve",
+      "Nucleus of abducens nerve",
+      "Motor nucleus of facial nerve",
+      "Vestibular nuclei",
+      "Anterior cochlear nucleus",
+      "Posterior cochlear nucleus",
+      "Superior salivatory nucleus",
+      "Inferior salivatory nucleus",
+      "Posterior nucleus of vagus nerve",
+      "Nucleus of hypoglossal nerve",
+      "Nucleus ambiguus"
+    ],
+    "stem-csf": [
+      "Aqueduct of midbrain",
+      "Fourth ventricle"
+    ],
+    "stem-nerves": [
+      "Oculomotor nerve (III)",
+      "Trochlear nerve (IV)",
+      "Trigeminal nerve (V)",
+      "Abducens nerve (VI)",
+      "Facial nerve (VII)",
+      "Vestibulocochlear nerve (VIII)",
+      "Glossopharyngeal nerve (IX)",
+      "Vagus nerve (X)",
+      "Accessory nerve (XI)",
+      "Hypoglossal nerve (XII)",
+      "Optic chiasm",
+      "Optic tract"
+    ],
+    "stem-columns": [
+      "Gracile fasciculus",
+      "Cuneate fasciculus"
+    ]
+  },
+  "colors": {
+    "frontal": "#ef7381",
+    "parietal": "#edc95c",
+    "temporal": "#52cbbc",
+    "occipital": "#a697e1",
+    "insula": "#f5a064",
+    "opercular": "#bdada2",
+    "limbic": "#d490c7",
+    "paracentral": "#e9ac73",
+    "sulci": "#25344a",
+    "deep": "#c5d9ee",
+    "brainstem": "#e7aa70",
+    "cerebellum": "#8daab9",
+    "cord": "#d3c7ed",
+    "peripheral": "#f0c869",
+    "stem-surface": "#66d2cb",
+    "stem-internal": "#f3d278",
+    "stem-csf": "#7bbcf2",
+    "stem-nerves": "#edb8ec",
+    "stem-columns": "#98d7ad",
+    "stem-vessels": "#f08d96"
+  },
+  "meshes": [
+    {
+      "name": " Posterior transverse collateral sulcus.l",
+      "base": " Posterior transverse collateral sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": " Posterior transverse collateral sulcus.r",
+      "base": " Posterior transverse collateral sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Abducens nerve (VI).l",
+      "base": "Abducens nerve (VI)",
+      "group": "stem-nerves",
+      "side": "left",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Abducens nerve (VI).r",
+      "base": "Abducens nerve (VI)",
+      "group": "stem-nerves",
+      "side": "right",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Accessory nerve (XI).l",
+      "base": "Accessory nerve (XI)",
+      "group": "stem-nerves",
+      "side": "left",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Accessory nerve (XI).r",
+      "base": "Accessory nerve (XI)",
+      "group": "stem-nerves",
+      "side": "right",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Accessory nucleus of oculomotor nerve.l",
+      "base": "Accessory nucleus of oculomotor nerve",
+      "group": "stem-internal",
+      "side": "left",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Accessory nucleus of oculomotor nerve.r",
+      "base": "Accessory nucleus of oculomotor nerve",
+      "group": "stem-internal",
+      "side": "right",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Angular gyrus.l",
+      "base": "Angular gyrus",
+      "group": "parietal",
+      "side": "left",
+      "color": "#edc95c"
+    },
+    {
+      "name": "Angular gyrus.r",
+      "base": "Angular gyrus",
+      "group": "parietal",
+      "side": "right",
+      "color": "#edc95c"
+    },
+    {
+      "name": "Anterior cochlear nucleus.l",
+      "base": "Anterior cochlear nucleus",
+      "group": "stem-internal",
+      "side": "left",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Anterior cochlear nucleus.r",
+      "base": "Anterior cochlear nucleus",
+      "group": "stem-internal",
+      "side": "right",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Anterior commissure",
+      "base": "Anterior commissure",
+      "group": "deep",
+      "side": "midline",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Anterior horn of spinal cord",
+      "base": "Anterior horn of spinal cord",
+      "group": "cord",
+      "side": "midline",
+      "color": "#d3c7ed"
+    },
+    {
+      "name": "Anterior occipital sulcus*.l",
+      "base": "Anterior occipital sulcus*",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Anterior occipital sulcus*.r",
+      "base": "Anterior occipital sulcus*",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Anterior quadrangular lobule.l",
+      "base": "Anterior quadrangular lobule",
+      "group": "cerebellum",
+      "side": "left",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Anterior quadrangular lobule.r",
+      "base": "Anterior quadrangular lobule",
+      "group": "cerebellum",
+      "side": "right",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Anterior root of spinal nerve.l",
+      "base": "Anterior root of spinal nerve",
+      "group": "peripheral",
+      "side": "left",
+      "color": "#f0c869"
+    },
+    {
+      "name": "Anterior root of spinal nerve.r",
+      "base": "Anterior root of spinal nerve",
+      "group": "peripheral",
+      "side": "right",
+      "color": "#f0c869"
+    },
+    {
+      "name": "Aqueduct of midbrain",
+      "base": "Aqueduct of midbrain",
+      "group": "stem-csf",
+      "side": "midline",
+      "color": "#7bbcf2"
+    },
+    {
+      "name": "Base of peduncle.l",
+      "base": "Base of peduncle",
+      "group": "stem-surface",
+      "side": "left",
+      "color": "#66d2cb"
+    },
+    {
+      "name": "Base of peduncle.r",
+      "base": "Base of peduncle",
+      "group": "stem-surface",
+      "side": "right",
+      "color": "#66d2cb"
+    },
+    {
+      "name": "Biventral lobule.l",
+      "base": "Biventral lobule",
+      "group": "cerebellum",
+      "side": "left",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Biventral lobule.r",
+      "base": "Biventral lobule",
+      "group": "cerebellum",
+      "side": "right",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Calcarine sulcus.l",
+      "base": "Calcarine sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Calcarine sulcus.r",
+      "base": "Calcarine sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Caudate nucleus.l",
+      "base": "Caudate nucleus",
+      "group": "deep",
+      "side": "left",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Caudate nucleus.r",
+      "base": "Caudate nucleus",
+      "group": "deep",
+      "side": "right",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Central lobule",
+      "base": "Central lobule",
+      "group": "cerebellum",
+      "side": "midline",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Central sulcus.l",
+      "base": "Central sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Central sulcus.r",
+      "base": "Central sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Cingulate gyrus (Posteroventral part*).l",
+      "base": "Cingulate gyrus (Posteroventral part*)",
+      "group": "limbic",
+      "side": "left",
+      "color": "#d490c7"
+    },
+    {
+      "name": "Cingulate gyrus (Posteroventral part*).r",
+      "base": "Cingulate gyrus (Posteroventral part*)",
+      "group": "limbic",
+      "side": "right",
+      "color": "#d490c7"
+    },
+    {
+      "name": "Cingulate gyrus and sulcus (Middle anterior part).l",
+      "base": "Cingulate gyrus and sulcus (Middle anterior part)",
+      "group": "limbic",
+      "side": "left",
+      "color": "#d490c7"
+    },
+    {
+      "name": "Cingulate gyrus and sulcus (Middle anterior part).r",
+      "base": "Cingulate gyrus and sulcus (Middle anterior part)",
+      "group": "limbic",
+      "side": "right",
+      "color": "#d490c7"
+    },
+    {
+      "name": "Cingulate gyrus and sulcus (Middle posterior part).l",
+      "base": "Cingulate gyrus and sulcus (Middle posterior part)",
+      "group": "limbic",
+      "side": "left",
+      "color": "#d490c7"
+    },
+    {
+      "name": "Cingulate gyrus and sulcus (Middle posterior part).r",
+      "base": "Cingulate gyrus and sulcus (Middle posterior part)",
+      "group": "limbic",
+      "side": "right",
+      "color": "#d490c7"
+    },
+    {
+      "name": "Cingulate gyrus and sulcus (Posterior dorsal part).l",
+      "base": "Cingulate gyrus and sulcus (Posterior dorsal part)",
+      "group": "limbic",
+      "side": "left",
+      "color": "#d490c7"
+    },
+    {
+      "name": "Cingulate gyrus and sulcus (Posterior dorsal part).r",
+      "base": "Cingulate gyrus and sulcus (Posterior dorsal part)",
+      "group": "limbic",
+      "side": "right",
+      "color": "#d490c7"
+    },
+    {
+      "name": "Cingulate sulcus (Marginal part*).l",
+      "base": "Cingulate sulcus (Marginal part*)",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Cingulate sulcus (Marginal part*).r",
+      "base": "Cingulate sulcus (Marginal part*)",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Circular sulcus of insula.l",
+      "base": "Circular sulcus of insula",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Circular sulcus of insula.r",
+      "base": "Circular sulcus of insula",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Collateral sulcus.l",
+      "base": "Collateral sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Collateral sulcus.r",
+      "base": "Collateral sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Corpus callosum",
+      "base": "Corpus callosum",
+      "group": "deep",
+      "side": "midline",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Culmen",
+      "base": "Culmen",
+      "group": "cerebellum",
+      "side": "midline",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Cuneate fasciculus",
+      "base": "Cuneate fasciculus",
+      "group": "stem-columns",
+      "side": "midline",
+      "color": "#98d7ad"
+    },
+    {
+      "name": "Cuneus.l",
+      "base": "Cuneus",
+      "group": "occipital",
+      "side": "left",
+      "color": "#a697e1"
+    },
+    {
+      "name": "Cuneus.r",
+      "base": "Cuneus",
+      "group": "occipital",
+      "side": "right",
+      "color": "#a697e1"
+    },
+    {
+      "name": "Declive",
+      "base": "Declive",
+      "group": "cerebellum",
+      "side": "midline",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Facial nerve (VII).l",
+      "base": "Facial nerve (VII)",
+      "group": "stem-nerves",
+      "side": "left",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Facial nerve (VII).r",
+      "base": "Facial nerve (VII)",
+      "group": "stem-nerves",
+      "side": "right",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Flocculus.l",
+      "base": "Flocculus",
+      "group": "cerebellum",
+      "side": "left",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Flocculus.r",
+      "base": "Flocculus",
+      "group": "cerebellum",
+      "side": "right",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Folium of vermis",
+      "base": "Folium of vermis",
+      "group": "cerebellum",
+      "side": "midline",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Fornix.l",
+      "base": "Fornix",
+      "group": "deep",
+      "side": "left",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Fornix.r",
+      "base": "Fornix",
+      "group": "deep",
+      "side": "right",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Fourth ventricle",
+      "base": "Fourth ventricle",
+      "group": "stem-csf",
+      "side": "midline",
+      "color": "#7bbcf2"
+    },
+    {
+      "name": "Glossopharyngeal nerve (IX).l",
+      "base": "Glossopharyngeal nerve (IX)",
+      "group": "stem-nerves",
+      "side": "left",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Glossopharyngeal nerve (IX).r",
+      "base": "Glossopharyngeal nerve (IX)",
+      "group": "stem-nerves",
+      "side": "right",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Gracile fasciculus",
+      "base": "Gracile fasciculus",
+      "group": "stem-columns",
+      "side": "midline",
+      "color": "#98d7ad"
+    },
+    {
+      "name": "Gracile lobule.l",
+      "base": "Gracile lobule",
+      "group": "cerebellum",
+      "side": "left",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Gracile lobule.r",
+      "base": "Gracile lobule",
+      "group": "cerebellum",
+      "side": "right",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Habenula",
+      "base": "Habenula",
+      "group": "deep",
+      "side": "midline",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Hippocampal commissure",
+      "base": "Hippocampal commissure",
+      "group": "deep",
+      "side": "midline",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Hippocampus.l",
+      "base": "Hippocampus",
+      "group": "deep",
+      "side": "left",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Hippocampus.r",
+      "base": "Hippocampus",
+      "group": "deep",
+      "side": "right",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Hypoglossal nerve (XII).l",
+      "base": "Hypoglossal nerve (XII)",
+      "group": "stem-nerves",
+      "side": "left",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Hypoglossal nerve (XII).r",
+      "base": "Hypoglossal nerve (XII)",
+      "group": "stem-nerves",
+      "side": "right",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Hypothalamus",
+      "base": "Hypothalamus",
+      "group": "deep",
+      "side": "midline",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Inferior colliculus.l",
+      "base": "Inferior colliculus",
+      "group": "stem-surface",
+      "side": "left",
+      "color": "#66d2cb"
+    },
+    {
+      "name": "Inferior colliculus.r",
+      "base": "Inferior colliculus",
+      "group": "stem-surface",
+      "side": "right",
+      "color": "#66d2cb"
+    },
+    {
+      "name": "Inferior frontal sulcus.l",
+      "base": "Inferior frontal sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Inferior frontal sulcus.r",
+      "base": "Inferior frontal sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Inferior occipital gyrus and sulcus*.l",
+      "base": "Inferior occipital gyrus and sulcus*",
+      "group": "occipital",
+      "side": "left",
+      "color": "#a697e1"
+    },
+    {
+      "name": "Inferior occipital gyrus and sulcus*.r",
+      "base": "Inferior occipital gyrus and sulcus*",
+      "group": "occipital",
+      "side": "right",
+      "color": "#a697e1"
+    },
+    {
+      "name": "Inferior salivatory nucleus.l",
+      "base": "Inferior salivatory nucleus",
+      "group": "stem-internal",
+      "side": "left",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Inferior salivatory nucleus.r",
+      "base": "Inferior salivatory nucleus",
+      "group": "stem-internal",
+      "side": "right",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Inferior semilunar lobule.l",
+      "base": "Inferior semilunar lobule",
+      "group": "cerebellum",
+      "side": "left",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Inferior semilunar lobule.r",
+      "base": "Inferior semilunar lobule",
+      "group": "cerebellum",
+      "side": "right",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Inferior temporal gyrus.l",
+      "base": "Inferior temporal gyrus",
+      "group": "temporal",
+      "side": "left",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Inferior temporal gyrus.r",
+      "base": "Inferior temporal gyrus",
+      "group": "temporal",
+      "side": "right",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Inferior temporal sulcus.l",
+      "base": "Inferior temporal sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Inferior temporal sulcus.r",
+      "base": "Inferior temporal sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Insula (Subcentral gyrus and ant. and post. sulci*).l",
+      "base": "Insula (Subcentral gyrus and ant. and post. sulci*)",
+      "group": "opercular",
+      "side": "left",
+      "color": "#bdada2"
+    },
+    {
+      "name": "Insula (Subcentral gyrus and ant. and post. sulci*).r",
+      "base": "Insula (Subcentral gyrus and ant. and post. sulci*)",
+      "group": "opercular",
+      "side": "right",
+      "color": "#bdada2"
+    },
+    {
+      "name": "Intermediolateral nucleus",
+      "base": "Intermediolateral nucleus",
+      "group": "cord",
+      "side": "midline",
+      "color": "#d3c7ed"
+    },
+    {
+      "name": "Intermediomedial nucleus",
+      "base": "Intermediomedial nucleus",
+      "group": "cord",
+      "side": "midline",
+      "color": "#d3c7ed"
+    },
+    {
+      "name": "Interpeduncular fossa.l",
+      "base": "Interpeduncular fossa",
+      "group": "stem-surface",
+      "side": "left",
+      "color": "#66d2cb"
+    },
+    {
+      "name": "Interpeduncular fossa.r",
+      "base": "Interpeduncular fossa",
+      "group": "stem-surface",
+      "side": "right",
+      "color": "#66d2cb"
+    },
+    {
+      "name": "Intraparietal sulcus.l",
+      "base": "Intraparietal sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Intraparietal sulcus.r",
+      "base": "Intraparietal sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Lat_Fis-ant-Horizont.l",
+      "base": "Lat_Fis-ant-Horizont",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Lat_Fis-ant-Horizont.r",
+      "base": "Lat_Fis-ant-Horizont",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Lat_Fis-ant-Vertical.l",
+      "base": "Lat_Fis-ant-Vertical",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Lat_Fis-ant-Vertical.r",
+      "base": "Lat_Fis-ant-Vertical",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Lat_Fis-post.l",
+      "base": "Lat_Fis-post",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Lat_Fis-post.r",
+      "base": "Lat_Fis-post",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Lateral occipital gyrus (Middle occipital gyrus*).l",
+      "base": "Lateral occipital gyrus (Middle occipital gyrus*)",
+      "group": "occipital",
+      "side": "left",
+      "color": "#a697e1"
+    },
+    {
+      "name": "Lateral occipital gyrus (Middle occipital gyrus*).r",
+      "base": "Lateral occipital gyrus (Middle occipital gyrus*)",
+      "group": "occipital",
+      "side": "right",
+      "color": "#a697e1"
+    },
+    {
+      "name": "Lateral occipitotemporal gyrus.l",
+      "base": "Lateral occipitotemporal gyrus",
+      "group": "temporal",
+      "side": "left",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Lateral occipitotemporal gyrus.r",
+      "base": "Lateral occipitotemporal gyrus",
+      "group": "temporal",
+      "side": "right",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Lentiform nucleus.l",
+      "base": "Lentiform nucleus",
+      "group": "deep",
+      "side": "left",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Lentiform nucleus.r",
+      "base": "Lentiform nucleus",
+      "group": "deep",
+      "side": "right",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Lingual gyrus.l",
+      "base": "Lingual gyrus",
+      "group": "occipital",
+      "side": "left",
+      "color": "#a697e1"
+    },
+    {
+      "name": "Lingual gyrus.r",
+      "base": "Lingual gyrus",
+      "group": "occipital",
+      "side": "right",
+      "color": "#a697e1"
+    },
+    {
+      "name": "Lingula of cerebellum",
+      "base": "Lingula of cerebellum",
+      "group": "cerebellum",
+      "side": "midline",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Lunate sulcus.l",
+      "base": "Lunate sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Lunate sulcus.r",
+      "base": "Lunate sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Medial occipitotemporal gyrus (Parahippocampal*).l",
+      "base": "Medial occipitotemporal gyrus (Parahippocampal*)",
+      "group": "temporal",
+      "side": "left",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Medial occipitotemporal gyrus (Parahippocampal*).r",
+      "base": "Medial occipitotemporal gyrus (Parahippocampal*)",
+      "group": "temporal",
+      "side": "right",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Medulla oblongata.l",
+      "base": "Medulla oblongata",
+      "group": "brainstem",
+      "side": "left",
+      "color": "#e7aa70"
+    },
+    {
+      "name": "Medulla oblongata.r",
+      "base": "Medulla oblongata",
+      "group": "brainstem",
+      "side": "right",
+      "color": "#e7aa70"
+    },
+    {
+      "name": "Midbrain.l",
+      "base": "Midbrain",
+      "group": "brainstem",
+      "side": "left",
+      "color": "#e7aa70"
+    },
+    {
+      "name": "Midbrain.r",
+      "base": "Midbrain",
+      "group": "brainstem",
+      "side": "right",
+      "color": "#e7aa70"
+    },
+    {
+      "name": "Middle frontal gyrus.l",
+      "base": "Middle frontal gyrus",
+      "group": "frontal",
+      "side": "left",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Middle frontal gyrus.r",
+      "base": "Middle frontal gyrus",
+      "group": "frontal",
+      "side": "right",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Middle temporal gyrus.l",
+      "base": "Middle temporal gyrus",
+      "group": "temporal",
+      "side": "left",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Middle temporal gyrus.r",
+      "base": "Middle temporal gyrus",
+      "group": "temporal",
+      "side": "right",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Motor nucleus of facial nerve.l",
+      "base": "Motor nucleus of facial nerve",
+      "group": "stem-internal",
+      "side": "left",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Motor nucleus of facial nerve.r",
+      "base": "Motor nucleus of facial nerve",
+      "group": "stem-internal",
+      "side": "right",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Nodule of vermis",
+      "base": "Nodule of vermis",
+      "group": "cerebellum",
+      "side": "midline",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Nucleus ambiguus.l",
+      "base": "Nucleus ambiguus",
+      "group": "stem-internal",
+      "side": "left",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Nucleus ambiguus.r",
+      "base": "Nucleus ambiguus",
+      "group": "stem-internal",
+      "side": "right",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Nucleus of abducens nerve.l",
+      "base": "Nucleus of abducens nerve",
+      "group": "stem-internal",
+      "side": "left",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Nucleus of abducens nerve.r",
+      "base": "Nucleus of abducens nerve",
+      "group": "stem-internal",
+      "side": "right",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Nucleus of hypoglossal nerve.l",
+      "base": "Nucleus of hypoglossal nerve",
+      "group": "stem-internal",
+      "side": "left",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Nucleus of hypoglossal nerve.r",
+      "base": "Nucleus of hypoglossal nerve",
+      "group": "stem-internal",
+      "side": "right",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Nucleus of oculomotor nerve.l",
+      "base": "Nucleus of oculomotor nerve",
+      "group": "stem-internal",
+      "side": "left",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Nucleus of oculomotor nerve.r",
+      "base": "Nucleus of oculomotor nerve",
+      "group": "stem-internal",
+      "side": "right",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Nucleus of trochlear nerve.l",
+      "base": "Nucleus of trochlear nerve",
+      "group": "stem-internal",
+      "side": "left",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Nucleus of trochlear nerve.r",
+      "base": "Nucleus of trochlear nerve",
+      "group": "stem-internal",
+      "side": "right",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Occipital pole.l",
+      "base": "Occipital pole",
+      "group": "occipital",
+      "side": "left",
+      "color": "#a697e1"
+    },
+    {
+      "name": "Occipital pole.r",
+      "base": "Occipital pole",
+      "group": "occipital",
+      "side": "right",
+      "color": "#a697e1"
+    },
+    {
+      "name": "Occipitotemporal sulcus (Lateral part*).l",
+      "base": "Occipitotemporal sulcus (Lateral part*)",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Occipitotemporal sulcus (Lateral part*).r",
+      "base": "Occipitotemporal sulcus (Lateral part*)",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Oculomotor nerve (III).l",
+      "base": "Oculomotor nerve (III)",
+      "group": "stem-nerves",
+      "side": "left",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Oculomotor nerve (III).r",
+      "base": "Oculomotor nerve (III)",
+      "group": "stem-nerves",
+      "side": "right",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Olfactory sulcus.l",
+      "base": "Olfactory sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Olfactory sulcus.r",
+      "base": "Olfactory sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Olive.l",
+      "base": "Olive",
+      "group": "stem-surface",
+      "side": "left",
+      "color": "#66d2cb"
+    },
+    {
+      "name": "Olive.r",
+      "base": "Olive",
+      "group": "stem-surface",
+      "side": "right",
+      "color": "#66d2cb"
+    },
+    {
+      "name": "Opercular part of inferior frontal gyrus.l",
+      "base": "Opercular part of inferior frontal gyrus",
+      "group": "frontal",
+      "side": "left",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Opercular part of inferior frontal gyrus.r",
+      "base": "Opercular part of inferior frontal gyrus",
+      "group": "frontal",
+      "side": "right",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Optic chiasm.l",
+      "base": "Optic chiasm",
+      "group": "stem-nerves",
+      "side": "left",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Optic chiasm.r",
+      "base": "Optic chiasm",
+      "group": "stem-nerves",
+      "side": "right",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Optic nerve (II).l",
+      "base": "Optic nerve (II)",
+      "group": "peripheral",
+      "side": "left",
+      "color": "#f0c869"
+    },
+    {
+      "name": "Optic nerve (II).r",
+      "base": "Optic nerve (II)",
+      "group": "peripheral",
+      "side": "right",
+      "color": "#f0c869"
+    },
+    {
+      "name": "Optic tract.l",
+      "base": "Optic tract",
+      "group": "stem-nerves",
+      "side": "left",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Optic tract.r",
+      "base": "Optic tract",
+      "group": "stem-nerves",
+      "side": "right",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Orbital gyri (Frontomarginal gyrus and sulcus*).l",
+      "base": "Orbital gyri (Frontomarginal gyrus and sulcus*)",
+      "group": "frontal",
+      "side": "left",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Orbital gyri (Frontomarginal gyrus and sulcus*).r",
+      "base": "Orbital gyri (Frontomarginal gyrus and sulcus*)",
+      "group": "frontal",
+      "side": "right",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Orbital gyri.l",
+      "base": "Orbital gyri",
+      "group": "frontal",
+      "side": "left",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Orbital gyri.r",
+      "base": "Orbital gyri",
+      "group": "frontal",
+      "side": "right",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Orbital part of  inferior frontal gyrus.l",
+      "base": "Orbital part of  inferior frontal gyrus",
+      "group": "frontal",
+      "side": "left",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Orbital part of  inferior frontal gyrus.r",
+      "base": "Orbital part of  inferior frontal gyrus",
+      "group": "frontal",
+      "side": "right",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Orbital sulci (H-shaped orbital sulci*).l",
+      "base": "Orbital sulci (H-shaped orbital sulci*)",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Orbital sulci (H-shaped orbital sulci*).r",
+      "base": "Orbital sulci (H-shaped orbital sulci*)",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Orbital sulci (Lateral Orbital sulcus*).l",
+      "base": "Orbital sulci (Lateral Orbital sulcus*)",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Orbital sulci (Lateral Orbital sulcus*).r",
+      "base": "Orbital sulci (Lateral Orbital sulcus*)",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Paracentral gyrus and sulcus*.l",
+      "base": "Paracentral gyrus and sulcus*",
+      "group": "paracentral",
+      "side": "left",
+      "color": "#e9ac73"
+    },
+    {
+      "name": "Paracentral gyrus and sulcus*.r",
+      "base": "Paracentral gyrus and sulcus*",
+      "group": "paracentral",
+      "side": "right",
+      "color": "#e9ac73"
+    },
+    {
+      "name": "Parieto-occipital sulcus.l",
+      "base": "Parieto-occipital sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Parieto-occipital sulcus.r",
+      "base": "Parieto-occipital sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Peduncle of flocculus.l",
+      "base": "Peduncle of flocculus",
+      "group": "cerebellum",
+      "side": "left",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Peduncle of flocculus.r",
+      "base": "Peduncle of flocculus",
+      "group": "cerebellum",
+      "side": "right",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Pons.l",
+      "base": "Pons",
+      "group": "brainstem",
+      "side": "left",
+      "color": "#e7aa70"
+    },
+    {
+      "name": "Pons.r",
+      "base": "Pons",
+      "group": "brainstem",
+      "side": "right",
+      "color": "#e7aa70"
+    },
+    {
+      "name": "Postcentral gyrus.l",
+      "base": "Postcentral gyrus",
+      "group": "parietal",
+      "side": "left",
+      "color": "#edc95c"
+    },
+    {
+      "name": "Postcentral gyrus.r",
+      "base": "Postcentral gyrus",
+      "group": "parietal",
+      "side": "right",
+      "color": "#edc95c"
+    },
+    {
+      "name": "Postcentral sulcus.l",
+      "base": "Postcentral sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Postcentral sulcus.r",
+      "base": "Postcentral sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Posterior cochlear nucleus.l",
+      "base": "Posterior cochlear nucleus",
+      "group": "stem-internal",
+      "side": "left",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Posterior cochlear nucleus.r",
+      "base": "Posterior cochlear nucleus",
+      "group": "stem-internal",
+      "side": "right",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Posterior commissure",
+      "base": "Posterior commissure",
+      "group": "deep",
+      "side": "midline",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Posterior horn of spinal cord",
+      "base": "Posterior horn of spinal cord",
+      "group": "cord",
+      "side": "midline",
+      "color": "#d3c7ed"
+    },
+    {
+      "name": "Posterior nucleus of vagus nerve.l",
+      "base": "Posterior nucleus of vagus nerve",
+      "group": "stem-internal",
+      "side": "left",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Posterior nucleus of vagus nerve.r",
+      "base": "Posterior nucleus of vagus nerve",
+      "group": "stem-internal",
+      "side": "right",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Posterior quadrangular lobule.l",
+      "base": "Posterior quadrangular lobule",
+      "group": "cerebellum",
+      "side": "left",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Posterior quadrangular lobule.r",
+      "base": "Posterior quadrangular lobule",
+      "group": "cerebellum",
+      "side": "right",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Posterior root of spinal nerve.l",
+      "base": "Posterior root of spinal nerve",
+      "group": "peripheral",
+      "side": "left",
+      "color": "#f0c869"
+    },
+    {
+      "name": "Posterior root of spinal nerve.r",
+      "base": "Posterior root of spinal nerve",
+      "group": "peripheral",
+      "side": "right",
+      "color": "#f0c869"
+    },
+    {
+      "name": "Precentral gyrus.l",
+      "base": "Precentral gyrus",
+      "group": "frontal",
+      "side": "left",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Precentral gyrus.r",
+      "base": "Precentral gyrus",
+      "group": "frontal",
+      "side": "right",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Precentral sulcus (inferior part)*.l",
+      "base": "Precentral sulcus (inferior part)*",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Precentral sulcus (inferior part)*.r",
+      "base": "Precentral sulcus (inferior part)*",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Precentral sulcus (Superior part)*.l",
+      "base": "Precentral sulcus (Superior part)*",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Precentral sulcus (Superior part)*.r",
+      "base": "Precentral sulcus (Superior part)*",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Precuneus.l",
+      "base": "Precuneus",
+      "group": "parietal",
+      "side": "left",
+      "color": "#edc95c"
+    },
+    {
+      "name": "Precuneus.r",
+      "base": "Precuneus",
+      "group": "parietal",
+      "side": "right",
+      "color": "#edc95c"
+    },
+    {
+      "name": "Pyramid of medulla oblongata.l",
+      "base": "Pyramid of medulla oblongata",
+      "group": "stem-surface",
+      "side": "left",
+      "color": "#66d2cb"
+    },
+    {
+      "name": "Pyramid of medulla oblongata.r",
+      "base": "Pyramid of medulla oblongata",
+      "group": "stem-surface",
+      "side": "right",
+      "color": "#66d2cb"
+    },
+    {
+      "name": "Pyramis of vermis",
+      "base": "Pyramis of vermis",
+      "group": "cerebellum",
+      "side": "midline",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Red nucleus.l",
+      "base": "Red nucleus",
+      "group": "stem-internal",
+      "side": "left",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Red nucleus.r",
+      "base": "Red nucleus",
+      "group": "stem-internal",
+      "side": "right",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Septum pellucidum",
+      "base": "Septum pellucidum",
+      "group": "deep",
+      "side": "midline",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Spinal ganglion.l",
+      "base": "Spinal ganglion",
+      "group": "peripheral",
+      "side": "left",
+      "color": "#f0c869"
+    },
+    {
+      "name": "Spinal ganglion.r",
+      "base": "Spinal ganglion",
+      "group": "peripheral",
+      "side": "right",
+      "color": "#f0c869"
+    },
+    {
+      "name": "Straight gyrus (Gyrus rectus).l",
+      "base": "Straight gyrus (Gyrus rectus)",
+      "group": "frontal",
+      "side": "left",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Straight gyrus (Gyrus rectus).r",
+      "base": "Straight gyrus (Gyrus rectus)",
+      "group": "frontal",
+      "side": "right",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Subparietal sulcus.l",
+      "base": "Subparietal sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Subparietal sulcus.r",
+      "base": "Subparietal sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Sulcus interm_prim-Jensen.l",
+      "base": "Sulcus interm_prim-Jensen",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Sulcus interm_prim-Jensen.r",
+      "base": "Sulcus interm_prim-Jensen",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Superior cerebellar peduncle.l",
+      "base": "Superior cerebellar peduncle",
+      "group": "stem-surface",
+      "side": "left",
+      "color": "#66d2cb"
+    },
+    {
+      "name": "Superior cerebellar peduncle.r",
+      "base": "Superior cerebellar peduncle",
+      "group": "stem-surface",
+      "side": "right",
+      "color": "#66d2cb"
+    },
+    {
+      "name": "Superior colliculus.l",
+      "base": "Superior colliculus",
+      "group": "stem-surface",
+      "side": "left",
+      "color": "#66d2cb"
+    },
+    {
+      "name": "Superior colliculus.r",
+      "base": "Superior colliculus",
+      "group": "stem-surface",
+      "side": "right",
+      "color": "#66d2cb"
+    },
+    {
+      "name": "Superior frontal gyrus.l",
+      "base": "Superior frontal gyrus",
+      "group": "frontal",
+      "side": "left",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Superior frontal gyrus.r",
+      "base": "Superior frontal gyrus",
+      "group": "frontal",
+      "side": "right",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Superior frontal sulcus.l",
+      "base": "Superior frontal sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Superior frontal sulcus.r",
+      "base": "Superior frontal sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Superior occipital gyri.l",
+      "base": "Superior occipital gyri",
+      "group": "occipital",
+      "side": "left",
+      "color": "#a697e1"
+    },
+    {
+      "name": "Superior occipital gyri.r",
+      "base": "Superior occipital gyri",
+      "group": "occipital",
+      "side": "right",
+      "color": "#a697e1"
+    },
+    {
+      "name": "Superior parietal lobule.l",
+      "base": "Superior parietal lobule",
+      "group": "parietal",
+      "side": "left",
+      "color": "#edc95c"
+    },
+    {
+      "name": "Superior parietal lobule.r",
+      "base": "Superior parietal lobule",
+      "group": "parietal",
+      "side": "right",
+      "color": "#edc95c"
+    },
+    {
+      "name": "Superior salivatory nucleus.l",
+      "base": "Superior salivatory nucleus",
+      "group": "stem-internal",
+      "side": "left",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Superior salivatory nucleus.r",
+      "base": "Superior salivatory nucleus",
+      "group": "stem-internal",
+      "side": "right",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Superior semilunar lobule.l",
+      "base": "Superior semilunar lobule",
+      "group": "cerebellum",
+      "side": "left",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Superior semilunar lobule.r",
+      "base": "Superior semilunar lobule",
+      "group": "cerebellum",
+      "side": "right",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Superior temporal gyrus (Lateral part).l",
+      "base": "Superior temporal gyrus (Lateral part)",
+      "group": "temporal",
+      "side": "left",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Superior temporal gyrus (Lateral part).r",
+      "base": "Superior temporal gyrus (Lateral part)",
+      "group": "temporal",
+      "side": "right",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Superior temporal sulcus.l",
+      "base": "Superior temporal sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Superior temporal sulcus.r",
+      "base": "Superior temporal sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Supramarginal gyrus.l",
+      "base": "Supramarginal gyrus",
+      "group": "parietal",
+      "side": "left",
+      "color": "#edc95c"
+    },
+    {
+      "name": "Supramarginal gyrus.r",
+      "base": "Supramarginal gyrus",
+      "group": "parietal",
+      "side": "right",
+      "color": "#edc95c"
+    },
+    {
+      "name": "Temporal plane.l",
+      "base": "Temporal plane",
+      "group": "temporal",
+      "side": "left",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Temporal plane.r",
+      "base": "Temporal plane",
+      "group": "temporal",
+      "side": "right",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Temporal pole.l",
+      "base": "Temporal pole",
+      "group": "temporal",
+      "side": "left",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Temporal pole.r",
+      "base": "Temporal pole",
+      "group": "temporal",
+      "side": "right",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Thalamus.l",
+      "base": "Thalamus",
+      "group": "deep",
+      "side": "left",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Thalamus.r",
+      "base": "Thalamus",
+      "group": "deep",
+      "side": "right",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Tonsil of cerebellum.l",
+      "base": "Tonsil of cerebellum",
+      "group": "cerebellum",
+      "side": "left",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Tonsil of cerebellum.r",
+      "base": "Tonsil of cerebellum",
+      "group": "cerebellum",
+      "side": "right",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Transverse frontopolar gyrus and sulcus*.l",
+      "base": "Transverse frontopolar gyrus and sulcus*",
+      "group": "frontal",
+      "side": "left",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Transverse frontopolar gyrus and sulcus*.r",
+      "base": "Transverse frontopolar gyrus and sulcus*",
+      "group": "frontal",
+      "side": "right",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Transverse occipital sulcus.l",
+      "base": "Transverse occipital sulcus",
+      "group": "sulci",
+      "side": "left",
+      "color": "#25344a"
+    },
+    {
+      "name": "Transverse occipital sulcus.r",
+      "base": "Transverse occipital sulcus",
+      "group": "sulci",
+      "side": "right",
+      "color": "#25344a"
+    },
+    {
+      "name": "Transverse temporal gyri.l",
+      "base": "Transverse temporal gyri",
+      "group": "temporal",
+      "side": "left",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Transverse temporal gyri.r",
+      "base": "Transverse temporal gyri",
+      "group": "temporal",
+      "side": "right",
+      "color": "#52cbbc"
+    },
+    {
+      "name": "Triangular part of inferior frontal gyrus.l",
+      "base": "Triangular part of inferior frontal gyrus",
+      "group": "frontal",
+      "side": "left",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Triangular part of inferior frontal gyrus.r",
+      "base": "Triangular part of inferior frontal gyrus",
+      "group": "frontal",
+      "side": "right",
+      "color": "#ef7381"
+    },
+    {
+      "name": "Trigeminal nerve (V).l",
+      "base": "Trigeminal nerve (V)",
+      "group": "stem-nerves",
+      "side": "left",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Trigeminal nerve (V).r",
+      "base": "Trigeminal nerve (V)",
+      "group": "stem-nerves",
+      "side": "right",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Trochlear nerve (IV).l",
+      "base": "Trochlear nerve (IV)",
+      "group": "stem-nerves",
+      "side": "left",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Trochlear nerve (IV).r",
+      "base": "Trochlear nerve (IV)",
+      "group": "stem-nerves",
+      "side": "right",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Tuber of vermis",
+      "base": "Tuber of vermis",
+      "group": "cerebellum",
+      "side": "midline",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Uvula of vermis",
+      "base": "Uvula of vermis",
+      "group": "cerebellum",
+      "side": "midline",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Vagus nerve (X).l",
+      "base": "Vagus nerve (X)",
+      "group": "stem-nerves",
+      "side": "left",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Vagus nerve (X).r",
+      "base": "Vagus nerve (X)",
+      "group": "stem-nerves",
+      "side": "right",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Vestibular nuclei.l",
+      "base": "Vestibular nuclei",
+      "group": "stem-internal",
+      "side": "left",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Vestibular nuclei.r",
+      "base": "Vestibular nuclei",
+      "group": "stem-internal",
+      "side": "right",
+      "color": "#f3d278"
+    },
+    {
+      "name": "Vestibulocochlear nerve (VIII).l",
+      "base": "Vestibulocochlear nerve (VIII)",
+      "group": "stem-nerves",
+      "side": "left",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "Vestibulocochlear nerve (VIII).r",
+      "base": "Vestibulocochlear nerve (VIII)",
+      "group": "stem-nerves",
+      "side": "right",
+      "color": "#edb8ec"
+    },
+    {
+      "name": "White matter of spinal cord",
+      "base": "White matter of spinal cord",
+      "group": "cord",
+      "side": "midline",
+      "color": "#d3c7ed"
+    },
+    {
+      "name": "White matter of telencephalon.l",
+      "base": "White matter of telencephalon",
+      "group": "deep",
+      "side": "left",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "White matter of telencephalon.r",
+      "base": "White matter of telencephalon",
+      "group": "deep",
+      "side": "right",
+      "color": "#c5d9ee"
+    },
+    {
+      "name": "Wing of central lobule.l",
+      "base": "Wing of central lobule",
+      "group": "cerebellum",
+      "side": "left",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Wing of central lobule.r",
+      "base": "Wing of central lobule",
+      "group": "cerebellum",
+      "side": "right",
+      "color": "#8daab9"
+    },
+    {
+      "name": "Basilar artery",
+      "base": "Basilar artery",
+      "group": "stem-vessels",
+      "side": "midline",
+      "color": "#f08d96"
+    },
+    {
+      "name": "Vertebral artery.l",
+      "base": "Vertebral artery",
+      "group": "stem-vessels",
+      "side": "left",
+      "color": "#f08d96"
+    },
+    {
+      "name": "Vertebral artery.r",
+      "base": "Vertebral artery",
+      "group": "stem-vessels",
+      "side": "right",
+      "color": "#f08d96"
+    }
+  ]
+}

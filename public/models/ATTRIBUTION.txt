@@ -1,0 +1,38 @@
+
+2026-10-16 illustrated study-map adaptation:
+Sulcal centerline teaching guides are derived from the licensed source sulcal
+ribbons and draped over the original cortical surfaces. Original anatomical
+geometry and transforms are preserved. Derived guide data remains CC BY-SA 4.0.
+Surface name placement and presentation code: Aseel & MED45 CNS Atlas.
+CNS anatomical geometry: Z-Anatomy / BodyParts3D, exported by Anatria3D.
+DBCLS / Kousaku Okubo; Gauthier Kervyn and Z-Anatomy contributors; Anatria3D contributors.
+Sources: https://github.com/Z-Anatomy/Models-of-human-anatomy
+https://github.com/Nurkan1/Anatria-3D/tree/main/public/anatomy
+License: CC BY-SA 4.0; upstream BodyParts3D CC BY-SA 2.1 Japan.
+https://creativecommons.org/licenses/by-sa/4.0/
+Adaptation: CNS teaching subset repackaged from the original nervous_male.glb.
+Compressed geometry, vertex positions and original node transforms preserved.
+Categorical opaque region colors and boundary lines applied at runtime.
+Source parcels can combine structures. They are not a subject-specific
+Brodmann, vascular-territory or tractography segmentation.
+Repackaged model adaptations remain under CC BY-SA 4.0.
+Lecture: Dr Ibrahim Amr, Neuro-Anatomy lecture 1, user-supplied PDF.
+
+Lecture 2 additions (2026-10-21): Brainstem, cranial nerves, nuclei, vertebral/basilar arteries, and full-body skeleton are source-preserving subsets of the same licensed atlas. Skeleton: skeletal_male / Anatria3D. Original node transformations and compressed geometry remain unchanged. The source lecture plates are user-supplied reference illustrations, not new atlas segmentation.
+
+Lecture 3 additions (2026-10-24): cranial.glb contains 373 original meshes selected
+from nervous_male, muscular_male and skeletal_male in the same source atlas.
+Source compressed geometry and node transforms are preserved; only display
+materials are replaced. The model adaptation remains CC BY-SA 4.0.
+Named pathway/territory/exit relationship diagrams and human function SVGs are
+original teaching illustrations by Aseel & MED45 CNS Atlas, not copied atlas
+plates, measured foramina, tractography or clinical biomechanical simulations.
+The 17 lecture slides and four memory-map pages were supplied by the user.
+
+Route revision (2026-10-24): 450 original source meshes, including registered
+nasal mucosa, tongue, salivary glands, pharyngeal/laryngeal muscles, cardiac
+chambers and arterial landmarks. Additional source files: visceral_male.glb
+and cardiovascular_male.glb from the same Anatria3D / Z-Anatomy repository.
+All original compressed geometry and node transforms remain unchanged.
+No original nerve is elongated, inflated, reparented or joined across an absent
+branch. Missing fine anatomy is stated explicitly in the user interface.

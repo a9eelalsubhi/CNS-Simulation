@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Lecture 1 \u00b7 Functional areas of cerebral cortex",
+    "path": "/data/lecture-1.json",
+    "inventory": "/data/structures.json"
+  },
+  {
+    "id": "2",
+    "title": "Lecture 2 \u00b7 Brainstem",
+    "path": "/data/lecture-2.json",
+    "inventory": "/data/brainstem-structures.json"
+  },
+  {
+    "id": "3",
+    "title": "Lecture 3 \u00b7 Cranial nerves",
+    "path": "/data/lecture-3.json",
+    "inventory": "/data/cranial-structures.json"
+  }
+]

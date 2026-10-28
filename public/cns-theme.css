@@ -1,0 +1,107 @@
+/* CNS identity: charcoal plum, crimson and lavender. The anatomy palette
+   remains categorical; UI branding never changes anatomical boundaries. */
+:root{--navy:#15121c;--panel:#1d1726;--panel2:#281e31;--line:#46334f;--muted:#b3a2c0;--white:#eee4f1;--mint:#bea4e1;--red:#ac3155;--gold:#dec18d}
+body.theme-cns{background:#100e16;color:#eee4f1;accent-color:#c6628b}
+body.theme-cns ::selection{background:#73324f;color:#ffedf7}
+body.theme-cns button{background:#291f34;border-color:#5a4165;color:#eee3f2}
+body.theme-cns button:hover{background:#39263e;border-color:#bc8daf}
+body.theme-cns button.primary{background:#a52c51;border-color:#d06086;color:#fff0f5}
+body.theme-cns button.primary:hover{background:#bc3a61;border-color:#e48da8}
+body.theme-cns button[aria-pressed=true],body.theme-cns button.active{background:#3c2447;border-color:#b18ac9;color:#f1dbff}
+body.theme-cns button:focus-visible,body.theme-cns a:focus-visible,body.theme-cns input:focus-visible,body.theme-cns select:focus-visible,body.theme-cns summary:focus-visible{outline-color:#d1b5ec}
+body.theme-cns a{color:#d1b1e9}
+body.theme-cns .topbar{background:linear-gradient(110deg,#1a1421,#2b182a);border-color:#713149;box-shadow:0 3px 22px #09060d40}
+body.theme-cns .brand{color:#f2e7ef}
+body.theme-cns .brand b{color:#cbabd9}
+body.theme-cns .brand small{color:#bba9c6}
+body.theme-cns .brand-symbol{background:#472135;border-color:#b95d7c;color:#f1b9d0}
+body.theme-cns .identity>span{color:#c7afd5}
+body.theme-cns .identity strong{color:#f0dfe9}
+body.theme-cns .lecture-switch{color:#ceb3da}
+body.theme-cns .sidebar{background:#17131f;border-color:#3c2e47;scrollbar-color:#65516f transparent}
+body.theme-cns .eyebrow{color:#bfa8cd}
+body.theme-cns .sidebar-intro{color:#b6a6c1}
+body.theme-cns .chapter>button{background:transparent;border-color:transparent;color:#d8cadd}
+body.theme-cns .chapter>button.active{background:#302039;border-color:#855875;border-left-color:#db6d91;color:#f3ddec}
+body.theme-cns .chapter-num{color:#bc91b1}
+body.theme-cns .chapter-steps button{background:transparent;color:#b9a6c7;border-color:#573d63}
+body.theme-cns .chapter-steps button.active{color:#f0c5d8;border-color:#d9789a;background:#2c1b31}
+body.theme-cns .display-panel,body.theme-cns .layer{border-color:#403047}
+body.theme-cns .section-head span{color:#a891b5}
+body.theme-cns .display-choice{color:#d0bfd9}
+body.theme-cns input[type=search],body.theme-cns select{background:#1a1523;color:#e7d9ed;border-color:#624a6d}
+body.theme-cns input::placeholder{color:#9e8aac}
+body.theme-cns #searchResults{background:#2b2036;border-color:#8d638e;box-shadow:0 8px 25px #09060a80}
+body.theme-cns #searchResults button{background:transparent;border:0}
+body.theme-cns #searchResults button:hover,body.theme-cns #searchResults button:focus{background:#402941}
+body.theme-cns input[role=switch]{background:#514357}
+body.theme-cns input[role=switch]:after{background:#cfc0d7}
+body.theme-cns input[role=switch]:checked{background:#ad3e64}
+body.theme-cns input[role=switch]:checked:after{background:#f6deec}
+body.theme-cns input[type=range]{accent-color:#cc789d}
+body.theme-cns .layer label.opacity-label{color:#bba8c7}
+body.theme-cns .layer output{color:#deb4d9}
+body.theme-cns .sources-link{background:transparent;border-color:#61446b}
+/* This deliberately overrides the old ivory map in both rendering modes. */
+body.theme-cns .viewport{background:radial-gradient(ellipse at 48% 40%,#2a2336 0%,#1c1726 55%,#14111c 100%)}
+body.theme-cns .view-heading h2{color:#efe2ee}
+body.theme-cns .view-heading .eyebrow{color:#c1a7d0}
+body.theme-cns .view-heading p{color:#b5a2c3}
+body.theme-cns .camera-hud button,body.theme-cns .view-tools button{background:#251b30ed;border-color:#624568}
+body.theme-cns .camera-hud button.active{background:#4a2543;border-color:#cf819e;color:#f7d7e4}
+body.theme-cns .legend button{background:#201927e8;border-color:#5b4263;color:#dac9e3}
+body.theme-cns .map-caption{color:#bda7ca}
+body.theme-cns .map-caption{position:static;margin-top:12px;max-width:330px}
+body.theme-cns .map-dot{background:#d37097}
+body.theme-cns .map-caption select{background:#2b1e35;color:#e7cfe9;border-color:#865c89}
+body.theme-cns .orientation-badge{color:#b29bc1}
+body.theme-cns .orbit-lock,body.theme-cns .gesture-hint,body.theme-cns .trace-control{background:#2a1e34ed;border-color:#875879;color:#e5c8e3}
+body.theme-cns .tour-rail{background:#201827f5;border-color:#624362;box-shadow:0 10px 32px #08050b50;scrollbar-color:#755172 transparent}
+body.theme-cns .rail-meta{color:#d0a9c8}
+body.theme-cns .rail-meta>button{background:transparent;border:0;color:#d3badf}
+body.theme-cns .rail-meta #toggleNotes{color:#e0b8d9}
+body.theme-cns .rail-meta #accuracyBadge{border-color:#a98b5d;color:#dfc895}
+body.theme-cns .tour-rail>p,body.theme-cns .tour-rail ul{color:#d0bfd9}
+body.theme-cns .tour-rail details{border-color:#ac799e;color:#cdb7d7}
+body.theme-cns .tour-rail summary{color:#deb3d1}
+body.theme-cns .progress{color:#baa3c6}
+body.theme-cns .progress progress{background:#49324d}
+body.theme-cns progress::-webkit-progress-bar{background:#49324d}
+body.theme-cns progress::-webkit-progress-value{background:#d1638b}
+body.theme-cns progress::-moz-progress-bar{background:#d1638b}
+body.theme-cns .loading{background:#17121ff5;color:#d7c2e2}
+body.theme-cns .loader{border-color:#4e3258;border-top-color:#d482aa}
+/* Ink sits on the colored gyri; external sulcal names use light lavender on
+   the dark canvas. The short leaders and halo never use a white backdrop. */
+body.theme-cns .surface-name text{fill:#211b2d;stroke:#d4bfd4;stroke-width:1.7px;paint-order:stroke fill}
+body.theme-cns .surface-name.sulcus-name text{fill:#dfcee9;stroke:#1b1524;stroke-width:3.5px}
+body.theme-cns .surface-leader{stroke:#bba0d6;stroke-width:1.4px}
+body.theme-cns .surface-name.selected text{fill:#40203f;stroke:#e0c4dc;stroke-width:2.5px}
+body.theme-cns .surface-name.sulcus-name.selected text{fill:#f3b4cf;stroke:#211523;stroke-width:3.5px}
+body.theme-cns text.surface-name.selected{fill:#edc2d8;stroke:#23172d;stroke-width:3px}
+body.theme-cns .surface-name:hover text,body.theme-cns .surface-name:focus-visible text{fill:#2b1636;stroke:#dfc2e8;stroke-width:3px}
+body.theme-cns.shaded-mode .surface-name text{fill:#e9dcef;stroke:#241a30;stroke-width:3px}
+body.theme-cns.shaded-mode .surface-name.selected text{fill:#f5b7d0}
+body.theme-cns .sources-dialog,body.theme-cns .figure-dialog{background:#1b1524;border-color:#74537a;color:#eee2f1}
+body.theme-cns dialog::backdrop{background:#0d0717bc}
+body.theme-cns .dialog-head{background:#2c1d33;border-color:#6b456f}
+body.theme-cns .dialog-head button{background:transparent;border:0}
+body.theme-cns .dialog-content{color:#d0bedb}
+body.theme-cns .dialog-content h2{color:#eee0f1}
+body.theme-cns .dialog-content h3{color:#d7b7e4}
+body.theme-cns .reference-item{border-color:#4d3556}
+body.theme-cns .reference-item p,body.theme-cns .figure-controls{color:#baa2c9}
+body.theme-cns .quiz-panel{background:#24192ff5;border-color:#775181;border-top-color:#e3bf80}
+body.theme-cns .quiz-meta,body.theme-cns .quiz-panel p{color:#c7b1d5}
+body.theme-cns .quiz-panel #quizFeedback{color:#e3c990}
+body.theme-cns .quiz-panel .correct{background:#214537;border-color:#83c8a1}
+body.theme-cns .quiz-panel .incorrect{background:#54253e;border-color:#e78cac}
+body.theme-cns #toast{background:#3a2341;border-color:#ab749b;color:#f2dced}
+/* A CSS color treatment preserves the supplied logo's exact alpha shape;
+   the original transparent image remains present for its accessible name. */
+.identity .med45-mark{position:relative;display:block;width:107px;height:53px;flex-shrink:0}
+.identity .med45-mark img{width:100%;height:100%;opacity:0}
+.med45-mark:after{content:'';position:absolute;inset:0;background:linear-gradient(115deg,#d8789b 10%,#c29ad5 65%,#a993d5);mask:url('/branding/med45uqu.png') center/cover no-repeat;-webkit-mask:url('/branding/med45uqu.png') center/cover no-repeat}
+@supports not (mask-image:url('')){.identity .med45-mark img{opacity:1}.med45-mark:after{display:none}}
+@media(max-width:1230px){.identity .med45-mark{width:85px}}
+@media(max-width:700px){.identity .med45-mark{width:75px;height:38px}.theme-cns .surface-name text{stroke-width:1.5px}.theme-cns .surface-name.sulcus-name text{stroke-width:3px}}
